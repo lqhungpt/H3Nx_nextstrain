@@ -1,0 +1,33 @@
+Map from character to field name
+A:	Avian
+B:	Canis
+C:	Enviroment
+D:	Human
+E:	Swine
+F:	?
+
+
+Substitution rate (mu): 1.802986
+
+Equilibrium frequencies (pi_i):
+  A: 0.182
+  B: 0.1623
+  C: 0.185
+  D: 0.1725
+  E: 0.2982
+
+Symmetrized rates from j->i (W_ij):
+	A	B	C	D	E
+  A	0	1.5155	2.0016	1.9657	1.1145
+  B	1.5155	0	1.0799	1.0577	0.8392
+  C	2.0016	1.0799	0	1.052	0.8156
+  D	1.9657	1.0577	1.052	0	1.6412
+  E	1.1145	0.8392	0.8156	1.6412	0
+
+Actual rates from j->i (Q_ij):
+	A	B	C	D	E
+  A	0	0.2759	0.3644	0.3578	0.2029
+  B	0.2459	0	0.1752	0.1716	0.1362
+  C	0.3704	0.1998	0	0.1947	0.1509
+  D	0.339	0.1824	0.1814	0	0.283
+  E	0.3323	0.2502	0.2432	0.4894	0

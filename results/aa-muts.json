@@ -1,0 +1,6765 @@
+{
+  "annotations": {
+    "HA": {
+      "end": 1718,
+      "seqid": "config/reference_sequence_ha_A_mallard_Alberta_114_1997.gb",
+      "start": 18,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 1740,
+      "seqid": "config/reference_sequence_ha_A_mallard_Alberta_114_1997.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "18.1.2"
+  },
+  "nodes": {
+    "A/Anserfabalis/China/D338/2020": {
+      "aa_muts": {
+        "HA": [
+          "T3I",
+          "S8G",
+          "A160V"
+        ]
+      }
+    },
+    "A/Arizona/21/2022": {
+      "aa_muts": {
+        "HA": [
+          "N9S",
+          "I10F",
+          "K223R"
+        ]
+      }
+    },
+    "A/Blue-WingedTeal/Alberta/1/2020": {
+      "aa_muts": {
+        "HA": [
+          "V6A",
+          "S108N",
+          "S175N",
+          "D291E",
+          "T377A",
+          "K528R"
+        ]
+      }
+    },
+    "A/Bufflehead/Alberta/600/2021": {
+      "aa_muts": {
+        "HA": [
+          "P37L"
+        ]
+      }
+    },
+    "A/California/07/2020": {
+      "aa_muts": {
+        "HA": [
+          "D23N",
+          "T28M",
+          "R277Q"
+        ]
+      }
+    },
+    "A/California/129/2022": {
+      "aa_muts": {
+        "HA": [
+          "I10V",
+          "D101G",
+          "R217K"
+        ]
+      }
+    },
+    "A/California/16/2020": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/California/36/2023": {
+      "aa_muts": {
+        "HA": [
+          "V220I",
+          "V445I"
+        ]
+      }
+    },
+    "A/California/55/2020": {
+      "aa_muts": {
+        "HA": [
+          "G21V"
+        ]
+      }
+    },
+    "A/California/70/2023": {
+      "aa_muts": {
+        "HA": [
+          "Q189R"
+        ]
+      }
+    },
+    "A/California/78/2023": {
+      "aa_muts": {
+        "HA": [
+          "T3A",
+          "N138D",
+          "L443F"
+        ]
+      }
+    },
+    "A/China/CSKFQ-22-5/2022": {
+      "aa_muts": {
+        "HA": [
+          "I41V",
+          "R285K",
+          "I294V",
+          "D505N"
+        ]
+      }
+    },
+    "A/China/ZMD-22-2/2022": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Connecticut/13/2020": {
+      "aa_muts": {
+        "HA": [
+          "K98R",
+          "N138K",
+          "P243X"
+        ]
+      }
+    },
+    "A/DistrictOfColumbia/03/2021": {
+      "aa_muts": {
+        "HA": [
+          "H72Y",
+          "S286T"
+        ]
+      }
+    },
+    "A/DistrictOfColumbia/41/2022": {
+      "aa_muts": {
+        "HA": [
+          "S140N",
+          "I252V",
+          "D307N"
+        ]
+      }
+    },
+    "A/France/IHUMI_InfluenzaAH3N2_genome_60678_4/2021": {
+      "aa_muts": {
+        "HA": [
+          "A16T",
+          "E66K",
+          "S153F",
+          "K326R",
+          "A546V"
+        ]
+      }
+    },
+    "A/Human/NewYorkCity/PV07994/2020": {
+      "aa_muts": {
+        "HA": [
+          "G21V"
+        ]
+      }
+    },
+    "A/Human/NewYorkCity/PV42662/2022": {
+      "aa_muts": {
+        "HA": [
+          "I74V",
+          "T147I",
+          "S160G",
+          "K223R",
+          "I538M",
+          "V545I"
+        ]
+      }
+    },
+    "A/Human/NewYorkCity/PV63087/2022": {
+      "aa_muts": {
+        "HA": [
+          "N142S",
+          "I276V",
+          "P305S"
+        ]
+      }
+    },
+    "A/Human/NewYorkCity/PV63095/2022": {
+      "aa_muts": {
+        "HA": [
+          "E66K",
+          "T151K",
+          "P289L",
+          "L436I"
+        ]
+      }
+    },
+    "A/Human/NewYorkCity/PV63221/2022": {
+      "aa_muts": {
+        "HA": [
+          "H172Q",
+          "R217I"
+        ]
+      }
+    },
+    "A/Human/NewYorkCity/PV63345/2022": {
+      "aa_muts": {
+        "HA": [
+          "I156K",
+          "R315K"
+        ]
+      }
+    },
+    "A/Human/NewYorkCity/PV63353/2022": {
+      "aa_muts": {
+        "HA": [
+          "I258M"
+        ]
+      }
+    },
+    "A/Human/NewYorkCity/PV63355/2022": {
+      "aa_muts": {
+        "HA": [
+          "T151K",
+          "I156K",
+          "S161N",
+          "N505T"
+        ]
+      }
+    },
+    "A/Louisiana/14/2020": {
+      "aa_muts": {
+        "HA": [
+          "E66K"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/362/2022": {
+      "aa_muts": {
+        "HA": [
+          "D291E"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/500/2021": {
+      "aa_muts": {
+        "HA": [
+          "D307N",
+          "L548M"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/56/2022": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Mallard/SouthKorea/KNU2021-17/2021": {
+      "aa_muts": {
+        "HA": [
+          "L19F",
+          "P20Q",
+          "S225N",
+          "S281G",
+          "A288V",
+          "D291E"
+        ]
+      }
+    },
+    "A/Michigan/MIS-L371012634/2023": {
+      "aa_muts": {
+        "HA": [
+          "I156M",
+          "V239I",
+          "G291D",
+          "K292E",
+          "N461T",
+          "N480S"
+        ]
+      }
+    },
+    "A/Michigan/UM-10052407968/2023": {
+      "aa_muts": {
+        "HA": [
+          "S286T"
+        ]
+      }
+    },
+    "A/Michigan/UOM10044986404/2022": {
+      "aa_muts": {
+        "HA": [
+          "E66X",
+          "G69X",
+          "F95X",
+          "R106X",
+          "G120X",
+          "S140X",
+          "L173X",
+          "D241X",
+          "I242X",
+          "S278X",
+          "R292X",
+          "C293X",
+          "Q343X",
+          "L512X",
+          "K524X"
+        ]
+      }
+    },
+    "A/Michigan/UOM10049137161/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Minnesota/21/2020": {
+      "aa_muts": {
+        "HA": [
+          "I156T"
+        ]
+      }
+    },
+    "A/Minnesota/23/2020": {
+      "aa_muts": {
+        "HA": [
+          "K223R"
+        ]
+      }
+    },
+    "A/Minnesota/23/2022": {
+      "aa_muts": {
+        "HA": [
+          "I10F",
+          "T176X",
+          "Q213R",
+          "S221F",
+          "V422I",
+          "A546X"
+        ]
+      }
+    },
+    "A/Missouri/19/2022": {
+      "aa_muts": {
+        "HA": [
+          "D23E",
+          "R49Q",
+          "S70N",
+          "A122T",
+          "N138S",
+          "I176V",
+          "K223R",
+          "K294E",
+          "I560V"
+        ]
+      }
+    },
+    "A/Missouri/USAFSAM-13606/2022": {
+      "aa_muts": {
+        "HA": [
+          "V14A",
+          "R108K",
+          "T151K",
+          "G291D"
+        ]
+      }
+    },
+    "A/Montana/07/2020": {
+      "aa_muts": {
+        "HA": [
+          "H72Y",
+          "K98R",
+          "N137D"
+        ]
+      }
+    },
+    "A/Muscovyduck/Vietnam/HN6220/2020": {
+      "aa_muts": {
+        "HA": [
+          "A27S",
+          "T99A",
+          "S175N",
+          "I363V",
+          "D505N",
+          "V545I"
+        ]
+      }
+    },
+    "A/Muscovyduck/Vietnam/QN6305/2020": {
+      "aa_muts": {
+        "HA": [
+          "I304L"
+        ]
+      }
+    },
+    "A/NorthCarolina/02/2020": {
+      "aa_muts": {
+        "HA": [
+          "G65S",
+          "T144X",
+          "R166K",
+          "V422I"
+        ]
+      }
+    },
+    "A/Pennsylvania/01/2021": {
+      "aa_muts": {
+        "HA": [
+          "N22D",
+          "D202B",
+          "Q213X",
+          "D241G",
+          "P243S",
+          "T264X",
+          "R315K"
+        ]
+      }
+    },
+    "A/Rheinland-Pfalz/USAFSAM-13521/2022": {
+      "aa_muts": {
+        "HA": [
+          "R49Q",
+          "D117E",
+          "S278N",
+          "E442G",
+          "M538I",
+          "I545V",
+          "A546V"
+        ]
+      }
+    },
+    "A/RuddyTurnstone/Delaware/193/2021": {
+      "aa_muts": {
+        "HA": [
+          "N23S",
+          "F95L",
+          "D97H",
+          "T138S",
+          "G151E",
+          "K156R",
+          "E402D",
+          "I506V"
+        ]
+      }
+    },
+    "A/RuddyTurnstone/Delaware/448/2021": {
+      "aa_muts": {
+        "HA": [
+          "T3A",
+          "L15T",
+          "H72Y",
+          "Q96R",
+          "T138S",
+          "G151E",
+          "S175N",
+          "N204D",
+          "W238Q",
+          "I246V",
+          "V260I",
+          "R285K",
+          "K308R",
+          "S328N",
+          "T344A",
+          "K466R",
+          "A492S",
+          "L547I"
+        ]
+      }
+    },
+    "A/SaudiArabia/VRG-138/2020": {
+      "aa_muts": {
+        "HA": [
+          "K99E",
+          "S209F"
+        ]
+      }
+    },
+    "A/SouthDakota/43/2022": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Spot-billedduck/SouthKorea/KNU2020-105/2020": {
+      "aa_muts": {
+        "HA": [
+          "R285K"
+        ]
+      }
+    },
+    "A/Thailand/CU-B36461/2020": {
+      "aa_muts": {
+        "HA": [
+          "T3A",
+          "H172Q",
+          "G234R",
+          "D241N",
+          "K280E"
+        ]
+      }
+    },
+    "A/USA/10048598708/2022": {
+      "aa_muts": {
+        "HA": [
+          "E99K",
+          "K137E",
+          "Q213R",
+          "R277Q"
+        ]
+      }
+    },
+    "A/Washington/47/2022": {
+      "aa_muts": {
+        "HA": [
+          "I10T",
+          "I64T"
+        ]
+      }
+    },
+    "A/Wildduck/SouthKorea/KNU2020-104/2020": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Wildduck/SouthKorea/KNU2020-134/2020": {
+      "aa_muts": {
+        "HA": [
+          "L13F",
+          "A214V",
+          "V339I"
+        ]
+      }
+    },
+    "A/canine/Texas/M23-02041-5-1/2023": {
+      "aa_muts": {
+        "HA": [
+          "T3I",
+          "G16S",
+          "P20L",
+          "D23E",
+          "S25N",
+          "T26A",
+          "I41M",
+          "S61N",
+          "V94I",
+          "D97N",
+          "S108N",
+          "L127I",
+          "T144A",
+          "G162S",
+          "A176T",
+          "N187T",
+          "D188N",
+          "N204D",
+          "V212I",
+          "W238L",
+          "V239I",
+          "I248V",
+          "V258I",
+          "R277H",
+          "T278I",
+          "D307E",
+          "K342R",
+          "I363V",
+          "H451N",
+          "D505N",
+          "L512V",
+          "K519R",
+          "M552L"
+        ]
+      }
+    },
+    "A/chicken/China/16/2023": {
+      "aa_muts": {
+        "HA": [
+          "V74I",
+          "A214T",
+          "V260A"
+        ]
+      }
+    },
+    "A/chicken/Dongguan/14/2022": {
+      "aa_muts": {
+        "HA": [
+          "M86V",
+          "A122S",
+          "T377A"
+        ]
+      }
+    },
+    "A/chicken/Dongguan/40/2022": {
+      "aa_muts": {
+        "HA": [
+          "G21R",
+          "V400L"
+        ]
+      }
+    },
+    "A/chicken/Dongguan/584/2022": {
+      "aa_muts": {
+        "HA": [
+          "N204T",
+          "K275R",
+          "E360A",
+          "K557E"
+        ]
+      }
+    },
+    "A/chicken/Dongguan/876/2022": {
+      "aa_muts": {
+        "HA": [
+          "T28K",
+          "K43R",
+          "P159S",
+          "K315R",
+          "T344K",
+          "E360A",
+          "I363V",
+          "L447M",
+          "F550S",
+          "R557I"
+        ]
+      }
+    },
+    "A/chicken/Huizhou/209/2022": {
+      "aa_muts": {
+        "HA": [
+          "T377I",
+          "I538T"
+        ]
+      }
+    },
+    "A/chicken/Jiangsu/CKJS03/2022": {
+      "aa_muts": {
+        "HA": [
+          "R78G",
+          "I363V",
+          "S525F",
+          "F541L"
+        ]
+      }
+    },
+    "A/chicken/Shantou/1/2022": {
+      "aa_muts": {
+        "HA": [
+          "K99R",
+          "S131T",
+          "T133A",
+          "T138A",
+          "A144T",
+          "E360V",
+          "R519K"
+        ]
+      }
+    },
+    "A/chicken/Shantou/5632/2021": {
+      "aa_muts": {
+        "HA": [
+          "M86T",
+          "S108N",
+          "S153G",
+          "P159L",
+          "R277K"
+        ]
+      }
+    },
+    "A/chicken/Shantou/6103/2021": {
+      "aa_muts": {
+        "HA": [
+          "S25N",
+          "N70S",
+          "A109S",
+          "S147N",
+          "V230F"
+        ]
+      }
+    },
+    "A/cinnamonteal/Utah/AH0166335/2021": {
+      "aa_muts": {
+        "HA": [
+          "F15S",
+          "D18N",
+          "P37S",
+          "Q205K",
+          "N209D"
+        ]
+      }
+    },
+    "A/duck/Bangladesh/46090/2020": {
+      "aa_muts": {
+        "HA": [
+          "K2R",
+          "I41M",
+          "A176T",
+          "Q205R",
+          "N209D",
+          "V212I",
+          "T278N",
+          "S416Y",
+          "G500E",
+          "F541L"
+        ]
+      }
+    },
+    "A/duck/China/403D49/2020": {
+      "aa_muts": {
+        "HA": [
+          "D23N",
+          "N112S",
+          "A160T",
+          "K308R"
+        ]
+      }
+    },
+    "A/duck/Guangxi/3846/2020": {
+      "aa_muts": {
+        "HA": [
+          "V4A",
+          "F11L",
+          "F15S",
+          "N24S",
+          "K66R",
+          "I74V",
+          "I230V",
+          "I252V",
+          "I261V",
+          "I294V",
+          "N328S",
+          "I351K"
+        ]
+      }
+    },
+    "A/duck/Guangxi/4130/2020": {
+      "aa_muts": {
+        "HA": [
+          "S8G",
+          "S24T",
+          "A214T",
+          "D287N"
+        ]
+      }
+    },
+    "A/duck/Vietnam/HN6425/2020": {
+      "aa_muts": {
+        "HA": [
+          "A214T",
+          "I252V"
+        ]
+      }
+    },
+    "A/duck/Vietnam/HN6479/2020": {
+      "aa_muts": {
+        "HA": [
+          "P289L"
+        ]
+      }
+    },
+    "A/duck/Vietnam/HN6569/2020": {
+      "aa_muts": {
+        "HA": [
+          "V10I",
+          "G16S",
+          "P20S",
+          "D23N",
+          "S25N",
+          "I252V",
+          "T278A",
+          "T344A",
+          "E495D"
+        ]
+      }
+    },
+    "A/duck/Vietnam/HN6617/2020": {
+      "aa_muts": {
+        "HA": [
+          "N306S",
+          "I434V",
+          "D503N"
+        ]
+      }
+    },
+    "A/environment/Iowa/Page-A/2022": {
+      "aa_muts": {
+        "HA": [
+          "G16S",
+          "P20T",
+          "N22S",
+          "N24T",
+          "T26D",
+          "S62V",
+          "K66T",
+          "I74V",
+          "A85S",
+          "V94S",
+          "E98A",
+          "G140S",
+          "S153N",
+          "A160V",
+          "N161G",
+          "S175N",
+          "V179L",
+          "R224K",
+          "I246V",
+          "P255S",
+          "I261V",
+          "R285K",
+          "S328G",
+          "T329S",
+          "L347I",
+          "I363V",
+          "K427R",
+          "R468K",
+          "R469Q",
+          "I506L",
+          "L512I",
+          "I538M",
+          "I551T",
+          "R557K"
+        ]
+      }
+    },
+    "A/environment/Japan/KU-B11/2020": {
+      "aa_muts": {
+        "HA": [
+          "T64I",
+          "G153S",
+          "V339I"
+        ]
+      }
+    },
+    "A/layer/China/GT2125/2023": {
+      "aa_muts": {
+        "HA": [
+          "Q17R",
+          "D79G",
+          "S108G",
+          "T142I",
+          "T344S",
+          "Y486S"
+        ]
+      }
+    },
+    "A/mallard/NewYork/AH0179427/2021": {
+      "aa_muts": {
+        "HA": [
+          "K2R",
+          "T3S",
+          "S20L",
+          "G65E",
+          "I195V",
+          "N209S",
+          "R285K",
+          "I506V",
+          "L547I"
+        ]
+      }
+    },
+    "A/mallard/NewYork/AH0179440/2021": {
+      "aa_muts": {
+        "HA": [
+          "S16G",
+          "N22T",
+          "S62A",
+          "K351I",
+          "K466R"
+        ]
+      }
+    },
+    "A/swine/Arkansas/A02861470/2023": {
+      "aa_muts": {
+        "HA": [
+          "S160N",
+          "N161K",
+          "D174N",
+          "Y175N",
+          "T176I",
+          "S209D",
+          "I219M",
+          "R238K",
+          "I248F",
+          "K280E"
+        ]
+      }
+    },
+    "A/swine/Belgium/Gent-82/2020": {
+      "aa_muts": {
+        "HA": [
+          "M1X",
+          "K2X",
+          "T3X",
+          "V4X",
+          "I5X",
+          "A6X",
+          "L7X",
+          "S8X",
+          "Y9X",
+          "V10X",
+          "F11X",
+          "C12X",
+          "L13X",
+          "G14X",
+          "F15X",
+          "G16X",
+          "S25N",
+          "I159N",
+          "Y190H",
+          "V229I",
+          "I230T",
+          "G256R",
+          "Q277K",
+          "K342R",
+          "N364S",
+          "T377I",
+          "G520S"
+        ]
+      }
+    },
+    "A/swine/Brazil/076-20-5/2020": {
+      "aa_muts": {
+        "HA": [
+          "I5V",
+          "E18K",
+          "P20H",
+          "G21E",
+          "D23G",
+          "S61N",
+          "S70N",
+          "K78E",
+          "Y110H",
+          "D112E",
+          "D117Y",
+          "K172Q",
+          "T208I",
+          "S209N",
+          "T214P",
+          "N232S",
+          "I239L",
+          "Y249H",
+          "K254N",
+          "R277Q",
+          "D287E",
+          "N301K",
+          "S303N",
+          "T344A",
+          "F348L",
+          "V363I",
+          "I422V",
+          "K469R",
+          "Q470L",
+          "A503V",
+          "K524R"
+        ]
+      }
+    },
+    "A/swine/Brazil/079-20-8/2020": {
+      "aa_muts": {
+        "HA": [
+          "T3A",
+          "L19P",
+          "P20S",
+          "G21R",
+          "D23E",
+          "Q60H",
+          "D69G",
+          "V104I",
+          "D117E",
+          "T133N",
+          "S140A",
+          "N149D",
+          "H171Y",
+          "K172S",
+          "K174N",
+          "T183S",
+          "D204E",
+          "N232V",
+          "I233V",
+          "I239M",
+          "Y273H",
+          "S278G",
+          "G291D",
+          "P305S",
+          "D307N",
+          "E495G",
+          "A503T",
+          "D509N",
+          "I538M",
+          "A545T",
+          "M552T"
+        ]
+      }
+    },
+    "A/swine/Cambodia/PFC64/2022": {
+      "aa_muts": {
+        "HA": [
+          "L19F",
+          "T26M",
+          "I41M",
+          "E78G",
+          "F95L",
+          "L127I",
+          "S153A",
+          "S159P",
+          "N181K",
+          "D204Y",
+          "R217I",
+          "S225N",
+          "S235F",
+          "D241N",
+          "I258M",
+          "K275R",
+          "R277Q",
+          "V363I",
+          "A389V",
+          "S416T",
+          "N461D",
+          "M478I",
+          "D503N",
+          "V506I",
+          "N513S",
+          "S525A",
+          "L532V",
+          "L543F"
+        ]
+      }
+    },
+    "A/swine/Chile/VN1401-5054/2020": {
+      "aa_muts": {
+        "HA": [
+          "K2R",
+          "C12Y",
+          "V14I",
+          "P20S",
+          "G21R",
+          "D23T",
+          "N24K",
+          "S25N",
+          "N47S",
+          "R66K",
+          "D69G",
+          "S70I",
+          "K108R",
+          "N149D",
+          "S153Y",
+          "G158E",
+          "V160I",
+          "K174E",
+          "P185Q",
+          "D188G",
+          "D204V",
+          "R217S",
+          "I242V",
+          "R245I",
+          "I246M",
+          "Y249H",
+          "L260N",
+          "N262K",
+          "I276L",
+          "G291D",
+          "N292S",
+          "K308R",
+          "N328K",
+          "A388T",
+          "D391N",
+          "S416L",
+          "E426K",
+          "R466K",
+          "K488N",
+          "E522R",
+          "A545T"
+        ]
+      }
+    },
+    "A/swine/Colorado/A02978450/2023": {
+      "aa_muts": {
+        "HA": [
+          "I14N",
+          "N24D",
+          "E99K",
+          "L127I",
+          "Y153F",
+          "R157K",
+          "V160A",
+          "N161K",
+          "T228A",
+          "V239T",
+          "Y249H",
+          "K254R",
+          "S281G",
+          "H289P",
+          "S305F",
+          "D307N",
+          "K308R",
+          "N314X",
+          "A320N",
+          "N391D",
+          "L425I",
+          "V429I",
+          "R469K",
+          "I506V",
+          "G520S"
+        ]
+      }
+    },
+    "A/swine/Illinois/A02479065/2020": {
+      "aa_muts": {
+        "HA": [
+          "G65D",
+          "I83X",
+          "K176R",
+          "G420E",
+          "D505N"
+        ]
+      }
+    },
+    "A/swine/Illinois/A02525379/2021": {
+      "aa_muts": {
+        "HA": [
+          "V14A",
+          "P20S",
+          "G94S",
+          "N137K",
+          "R158G",
+          "N160H",
+          "S209Y",
+          "A214T",
+          "Q343E",
+          "A388S",
+          "M478I",
+          "F541L"
+        ]
+      }
+    },
+    "A/swine/Illinois/A02636634/2022": {
+      "aa_muts": {
+        "HA": [
+          "L19F",
+          "G21E",
+          "R66K",
+          "L127I",
+          "N187D",
+          "V212A",
+          "I219V",
+          "Q277K"
+        ]
+      }
+    },
+    "A/swine/Illinois/A02750966/2022": {
+      "aa_muts": {
+        "HA": [
+          "C12S",
+          "I156K",
+          "S161N",
+          "K187E",
+          "H199L",
+          "N205S",
+          "Y211F",
+          "S215P",
+          "S235Y",
+          "D241G",
+          "P243S",
+          "K275R",
+          "D509N"
+        ]
+      }
+    },
+    "A/swine/Illinois/A02861426/2023": {
+      "aa_muts": {
+        "HA": [
+          "D160G",
+          "N161K",
+          "Y175D",
+          "R217K",
+          "S278N",
+          "R285K",
+          "A537S"
+        ]
+      }
+    },
+    "A/swine/Indiana/21TOSU1311/2021": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/swine/Indiana/22TOSU3199/2022": {
+      "aa_muts": {
+        "HA": [
+          "I41M",
+          "A215T"
+        ]
+      }
+    },
+    "A/swine/Indiana/29545/2020": {
+      "aa_muts": {
+        "HA": [
+          "F15S",
+          "Y175H"
+        ]
+      }
+    },
+    "A/swine/Indiana/31877/2020": {
+      "aa_muts": {
+        "HA": [
+          "N149D",
+          "S153Y",
+          "I156M",
+          "Y175H",
+          "K187R",
+          "I208T",
+          "K275R",
+          "N398D",
+          "N513T",
+          "E522D",
+          "A546V"
+        ]
+      }
+    },
+    "A/swine/Indiana/A01812305/2020": {
+      "aa_muts": {
+        "HA": [
+          "P20L",
+          "H34P",
+          "Q148P",
+          "A214S",
+          "R508X",
+          "W530G",
+          "C540G"
+        ]
+      }
+    },
+    "A/swine/Indiana/A01812314/2020": {
+      "aa_muts": {
+        "HA": [
+          "M26X",
+          "N54K",
+          "I83X",
+          "S162G",
+          "D204X",
+          "N209Y",
+          "L210I",
+          "V212A",
+          "S215P",
+          "K413E",
+          "R469K"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02479308/2020": {
+      "aa_muts": {
+        "HA": [
+          "P71S",
+          "S140N",
+          "N205S",
+          "D241N",
+          "S278N"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02524710/2020": {
+      "aa_muts": {
+        "HA": [
+          "E78G",
+          "H172X",
+          "S209F",
+          "V325I"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02525139/2021": {
+      "aa_muts": {
+        "HA": [
+          "R108K",
+          "R238K",
+          "E500G",
+          "I538M"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02636047/2021": {
+      "aa_muts": {
+        "HA": [
+          "K2R",
+          "C9Y",
+          "S62Y",
+          "D65N",
+          "K73Q",
+          "H91N",
+          "D94E",
+          "V128I",
+          "E135K",
+          "A147S",
+          "D188G",
+          "K189N",
+          "D204E",
+          "S209N",
+          "V212I",
+          "R217K",
+          "V229I",
+          "I252V",
+          "I258V",
+          "N328K",
+          "S374A",
+          "L383I",
+          "I434V",
+          "V521I",
+          "K524N",
+          "L543I"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02636368/2022": {
+      "aa_muts": {
+        "HA": [
+          "Y121H",
+          "S131F",
+          "Y175H",
+          "T208A",
+          "A388S"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02636487/2022": {
+      "aa_muts": {
+        "HA": [
+          "T147N",
+          "E151G",
+          "I156M",
+          "K176E",
+          "N187D",
+          "G202D",
+          "N205S",
+          "D206N",
+          "P255S",
+          "S295F"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02750772/2022": {
+      "aa_muts": {
+        "HA": [
+          "N22D",
+          "N79K",
+          "R217K",
+          "N505S"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02751202/2022": {
+      "aa_muts": {
+        "HA": [
+          "R166K",
+          "K326R",
+          "M552I"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02751400/2022": {
+      "aa_muts": {
+        "HA": [
+          "V212A",
+          "V400I"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02751460/2023": {
+      "aa_muts": {
+        "HA": [
+          "I15T",
+          "N174D",
+          "T208N",
+          "S215P",
+          "R217K",
+          "P255S",
+          "G319R",
+          "N491K",
+          "I538T"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02751592/2023": {
+      "aa_muts": {
+        "HA": [
+          "C12Y",
+          "D23G",
+          "T144N",
+          "A183E",
+          "D241G",
+          "R277Q",
+          "A320V",
+          "D391N",
+          "L542M"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02758602/2023": {
+      "aa_muts": {
+        "HA": [
+          "A16T",
+          "I64M",
+          "V74I",
+          "K156R",
+          "K176N",
+          "G202D",
+          "D206V",
+          "D241N",
+          "P243S"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02861589/2023": {
+      "aa_muts": {
+        "HA": [
+          "G94D",
+          "N149D",
+          "I151T",
+          "Q172K",
+          "R238K",
+          "D391N"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02861625/2023": {
+      "aa_muts": {
+        "HA": [
+          "N138S",
+          "S235P",
+          "K280T",
+          "S525L"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02861694/2023": {
+      "aa_muts": {
+        "HA": [
+          "F95L",
+          "N174E",
+          "Y175H",
+          "S209Y",
+          "L447M"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02861847/2023": {
+      "aa_muts": {
+        "HA": [
+          "L173S",
+          "N225S",
+          "S295F",
+          "E375D"
+        ]
+      }
+    },
+    "A/swine/Indiana/A02861862/2023": {
+      "aa_muts": {
+        "HA": [
+          "S140N",
+          "K160E",
+          "S235P",
+          "V363M"
+        ]
+      }
+    },
+    "A/swine/Indiana/OH21-5789/2021": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/swine/Iowa/20TOSU2329/2020": {
+      "aa_muts": {
+        "HA": [
+          "S63X"
+        ]
+      }
+    },
+    "A/swine/Iowa/21TOSU0666/2021": {
+      "aa_muts": {
+        "HA": [
+          "V14I"
+        ]
+      }
+    },
+    "A/swine/Iowa/21TOSU0768/2021": {
+      "aa_muts": {
+        "HA": [
+          "E66K",
+          "G94D",
+          "N138D",
+          "I208T",
+          "I233V",
+          "K519N",
+          "L532I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02248201/2021": {
+      "aa_muts": {
+        "HA": [
+          "G21E",
+          "T228A",
+          "V230I",
+          "D529N"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02479022/2020": {
+      "aa_muts": {
+        "HA": [
+          "L19I",
+          "N24K",
+          "R217G"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02479053/2020": {
+      "aa_muts": {
+        "HA": [
+          "Q73K",
+          "L127I",
+          "A228T",
+          "R254K",
+          "I258V",
+          "I268V",
+          "N514K",
+          "L548S"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02479069/2020": {
+      "aa_muts": {
+        "HA": [
+          "D149N",
+          "R158G",
+          "K223E",
+          "D529N"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02479075/2020": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/swine/Iowa/A02479137/2020": {
+      "aa_muts": {
+        "HA": [
+          "C12F",
+          "Y72H",
+          "K108R",
+          "F175Y",
+          "S374Y",
+          "V521I",
+          "I531F"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02479159/2020": {
+      "aa_muts": {
+        "HA": [
+          "T133N",
+          "A215E"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02479355/2020": {
+      "aa_muts": {
+        "HA": [
+          "N22D",
+          "D23V",
+          "V104I",
+          "N112S",
+          "N161K",
+          "A212T",
+          "R224K",
+          "R238K",
+          "S374Y"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02524572/2020": {
+      "aa_muts": {
+        "HA": [
+          "S107N"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02524613/2020": {
+      "aa_muts": {
+        "HA": [
+          "N161Q",
+          "V239I",
+          "I538T"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02524685/2020": {
+      "aa_muts": {
+        "HA": [
+          "T3I",
+          "C12Y",
+          "F62S",
+          "S160I",
+          "K292R"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02524755/2020": {
+      "aa_muts": {
+        "HA": [
+          "F62S",
+          "T64I",
+          "S140X",
+          "N149D",
+          "S160X",
+          "I304V"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02524819/2020": {
+      "aa_muts": {
+        "HA": [
+          "A214E",
+          "V239I",
+          "K488E",
+          "E526D"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02524874/2020": {
+      "aa_muts": {
+        "HA": [
+          "Y117H",
+          "V205M",
+          "V233I",
+          "K488R"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02524878/2020": {
+      "aa_muts": {
+        "HA": [
+          "F15L",
+          "K18E",
+          "S22N",
+          "N24K",
+          "L41F",
+          "S61N",
+          "I67M",
+          "E78G",
+          "D94N",
+          "Q96R",
+          "N97D",
+          "E135K",
+          "A147D",
+          "V160D",
+          "N161K",
+          "N172H",
+          "N174E",
+          "Y175H",
+          "D204E",
+          "K205N",
+          "N209Y",
+          "E292K",
+          "N294Y",
+          "T344N",
+          "D364E",
+          "S461N",
+          "G495E",
+          "D503N",
+          "V546I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02524889/2020": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/swine/Iowa/A02525036/2020": {
+      "aa_muts": {
+        "HA": [
+          "S107N",
+          "D241G"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02525153/2021": {
+      "aa_muts": {
+        "HA": [
+          "D120N",
+          "K528T"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02525184/2021": {
+      "aa_muts": {
+        "HA": [
+          "P37Q",
+          "H91Q",
+          "D93G",
+          "D94E",
+          "A122T",
+          "I252V",
+          "H289N",
+          "A320N",
+          "G520S"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02525241/2021": {
+      "aa_muts": {
+        "HA": [
+          "I14T",
+          "A147D",
+          "S165R",
+          "Y175H",
+          "Y249H",
+          "E296D",
+          "D503N",
+          "N509S"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02525261/2021": {
+      "aa_muts": {
+        "HA": [
+          "D191N",
+          "S209Y",
+          "R377K",
+          "L425I",
+          "I538T",
+          "T552A"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02525306/2021": {
+      "aa_muts": {
+        "HA": [
+          "I50V",
+          "E78K",
+          "N149D",
+          "S160G",
+          "D204N",
+          "S278N"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02525387/2021": {
+      "aa_muts": {
+        "HA": [
+          "R157X",
+          "D188X",
+          "R466K",
+          "C544X"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02635906/2021": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/swine/Iowa/A02635941/2021": {
+      "aa_muts": {
+        "HA": [
+          "T133S",
+          "D241N",
+          "A492V",
+          "A546S"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636147/2021": {
+      "aa_muts": {
+        "HA": [
+          "K2E",
+          "I15V",
+          "N69K",
+          "Q73K",
+          "L425I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636169/2021": {
+      "aa_muts": {
+        "HA": [
+          "K18N",
+          "G21D",
+          "S154A",
+          "K488E"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636183/2021": {
+      "aa_muts": {
+        "HA": [
+          "H175Y",
+          "E205K",
+          "Y209S"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636296/2021": {
+      "aa_muts": {
+        "HA": [
+          "A147D",
+          "N161K",
+          "Y175H",
+          "N209S",
+          "H289P"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636382/2022": {
+      "aa_muts": {
+        "HA": [
+          "G21X",
+          "L31I",
+          "P37S",
+          "V239I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636396/2022": {
+      "aa_muts": {
+        "HA": [
+          "P20L",
+          "G291S",
+          "T344N",
+          "V363M",
+          "A492T",
+          "D505G",
+          "V506L"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636448/2022": {
+      "aa_muts": {
+        "HA": [
+          "E78G",
+          "R158G",
+          "G160D",
+          "T237A"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636490/2022": {
+      "aa_muts": {
+        "HA": [
+          "L127I",
+          "D174E",
+          "S263T",
+          "S305F"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636493/2022": {
+      "aa_muts": {
+        "HA": [
+          "I10V",
+          "Y153S",
+          "N209Y"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02636495/2022": {
+      "aa_muts": {
+        "HA": [
+          "F15L",
+          "D101G",
+          "V418A"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02711598/2022": {
+      "aa_muts": {
+        "HA": [
+          "R157K",
+          "N161K",
+          "I208M",
+          "V521I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750658/2022": {
+      "aa_muts": {
+        "HA": [
+          "A3V",
+          "K99R",
+          "N137I",
+          "N138S",
+          "A215S",
+          "P243S",
+          "R254K",
+          "S278N",
+          "K326R",
+          "F483L",
+          "V521I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750722/2022": {
+      "aa_muts": {
+        "HA": [
+          "S25N",
+          "Q73K",
+          "I233V"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750729/2022": {
+      "aa_muts": {
+        "HA": [
+          "P119Q",
+          "S140N",
+          "D204E",
+          "I298V",
+          "I347L",
+          "R399K",
+          "Q470X"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750730/2022": {
+      "aa_muts": {
+        "HA": [
+          "T28M",
+          "I41M",
+          "V128I",
+          "N174D"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750740/2022": {
+      "aa_muts": {
+        "HA": [
+          "K137E",
+          "S140D",
+          "S153F",
+          "S161K",
+          "V198I",
+          "R217K",
+          "D241N",
+          "P243T",
+          "G520R",
+          "V545G"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750793/2022": {
+      "aa_muts": {
+        "HA": [
+          "L19P",
+          "S22N",
+          "Y175H",
+          "V363I",
+          "N513H"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750797/2022": {
+      "aa_muts": {
+        "HA": [
+          "D94N",
+          "T147A",
+          "N161K",
+          "Y175H",
+          "K205T",
+          "N209S",
+          "N559S"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750816/2022": {
+      "aa_muts": {
+        "HA": [
+          "E78K",
+          "G94D",
+          "N161K",
+          "K176T",
+          "D204N",
+          "K205E",
+          "N225T",
+          "T237I",
+          "N294S",
+          "A296T",
+          "V339I",
+          "L425I",
+          "G495D",
+          "L547F",
+          "F550L"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750961/2022": {
+      "aa_muts": {
+        "HA": [
+          "A16G",
+          "N24S",
+          "T64I",
+          "K99N",
+          "N149D",
+          "E205K",
+          "A215T",
+          "V239I",
+          "P243S",
+          "I258L",
+          "K342R",
+          "D505A"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750974/2022": {
+      "aa_muts": {
+        "HA": [
+          "T64A",
+          "N172K",
+          "T329S",
+          "I422V",
+          "N491S"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02750995/2022": {
+      "aa_muts": {
+        "HA": [
+          "S458L"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02751003/2022": {
+      "aa_muts": {
+        "HA": [
+          "F175S",
+          "K205R",
+          "S374Y",
+          "S496T",
+          "N513S",
+          "M552I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02751004/2022": {
+      "aa_muts": {
+        "HA": [
+          "T123I",
+          "S159Y",
+          "A212V",
+          "K217R",
+          "G279R",
+          "R469K"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02751012/2022": {
+      "aa_muts": {
+        "HA": [
+          "V146I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02751065/2022": {
+      "aa_muts": {
+        "HA": [
+          "L31I",
+          "H72Y",
+          "R108K",
+          "G158R",
+          "G225S",
+          "V239I",
+          "I339V",
+          "A546V",
+          "L547W"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02751094/2022": {
+      "aa_muts": {
+        "HA": [
+          "V74I",
+          "I453V"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02751136/2022": {
+      "aa_muts": {
+        "HA": [
+          "N47S",
+          "D509N"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02751168/2022": {
+      "aa_muts": {
+        "HA": [
+          "L19F",
+          "S107N",
+          "H175N",
+          "E205K",
+          "M478L"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02751412/2022": {
+      "aa_muts": {
+        "HA": [
+          "Y175H",
+          "K275R"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02751427/2022": {
+      "aa_muts": {
+        "HA": [
+          "G21S",
+          "N69D",
+          "D149N",
+          "T151A",
+          "K275R",
+          "A388S"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861253/2023": {
+      "aa_muts": {
+        "HA": [
+          "I15T",
+          "T108I",
+          "L127I",
+          "E384K",
+          "M478I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861296/2023": {
+      "aa_muts": {
+        "HA": [
+          "K135N",
+          "I140T",
+          "N161K",
+          "S305P"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861320/2023": {
+      "aa_muts": {
+        "HA": [
+          "K17E",
+          "I140T",
+          "K205R"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861349/2023": {
+      "aa_muts": {
+        "HA": [
+          "K18E",
+          "G21S",
+          "R280K",
+          "D503N",
+          "K524R"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861433/2023": {
+      "aa_muts": {
+        "HA": [
+          "R399K"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861505/2023": {
+      "aa_muts": {
+        "HA": [
+          "K108R",
+          "P243S",
+          "K524R"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861602/2023": {
+      "aa_muts": {
+        "HA": [
+          "K99E",
+          "H175Y",
+          "S214P"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861774/2023": {
+      "aa_muts": {
+        "HA": [
+          "L13Q",
+          "N24D",
+          "R106X",
+          "I230V",
+          "L444I",
+          "A546V"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861833/2023": {
+      "aa_muts": {
+        "HA": [
+          "L19P",
+          "N69X",
+          "T123S",
+          "S126T"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861853/2023": {
+      "aa_muts": {
+        "HA": [
+          "F15S",
+          "L19F",
+          "P37S",
+          "N69D",
+          "G94D",
+          "N98T",
+          "D149N",
+          "S160D",
+          "N161K",
+          "H172K",
+          "F175Y",
+          "K176R",
+          "A179P",
+          "K205E",
+          "S209N",
+          "A228V",
+          "I276M",
+          "K292R",
+          "P305S",
+          "T344P",
+          "K384T",
+          "D417E",
+          "K469R",
+          "K488R",
+          "N509S",
+          "Y527H",
+          "I538T"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861878/2023": {
+      "aa_muts": {
+        "HA": [
+          "Q73R",
+          "S247G",
+          "I258V",
+          "N328K",
+          "G549W"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861882/2023": {
+      "aa_muts": {
+        "HA": [
+          "V6I",
+          "R158K",
+          "I276L"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861925/2023": {
+      "aa_muts": {
+        "HA": [
+          "R166K"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861979/2023": {
+      "aa_muts": {
+        "HA": [
+          "M26R",
+          "S140R",
+          "H172Q",
+          "D174N",
+          "F175Y",
+          "A214E",
+          "R254K"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861989/2023": {
+      "aa_muts": {
+        "HA": [
+          "H9Y",
+          "G21S",
+          "H72Y",
+          "D149N",
+          "N161K",
+          "F175S",
+          "K205E",
+          "I258V",
+          "T329S",
+          "D505S"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02861998/2023": {
+      "aa_muts": {
+        "HA": [
+          "I50V",
+          "G94S",
+          "Y114F",
+          "R158K",
+          "K205R",
+          "D529E"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02862012/2023": {
+      "aa_muts": {
+        "HA": [
+          "S8G",
+          "T344A"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02862017/2023": {
+      "aa_muts": {
+        "HA": [
+          "S61N",
+          "D149G",
+          "R158K",
+          "R315K",
+          "T344N",
+          "K524R"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02862034/2023": {
+      "aa_muts": {
+        "HA": [
+          "H9P",
+          "V14I",
+          "V239I",
+          "F369Y",
+          "I538T"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02862080/2023": {
+      "aa_muts": {
+        "HA": [
+          "K18N",
+          "L19R",
+          "K99E",
+          "N161K",
+          "N174D",
+          "F175S",
+          "V182A",
+          "T183A",
+          "T228I"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02862090/2023": {
+      "aa_muts": {
+        "HA": [
+          "D120B",
+          "S295F"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02978443/2023": {
+      "aa_muts": {
+        "HA": [
+          "A214T",
+          "K468R",
+          "G495R"
+        ]
+      }
+    },
+    "A/swine/Iowa/A02978451/2023": {
+      "aa_muts": {
+        "HA": [
+          "T137N",
+          "D291A",
+          "V546I"
+        ]
+      }
+    },
+    "A/swine/Iowa/B58578/2022": {
+      "aa_muts": {
+        "HA": [
+          "S107N",
+          "D149N",
+          "R217K",
+          "N225T",
+          "T228I",
+          "Q517H"
+        ]
+      }
+    },
+    "A/swine/Iowa/C39563/2022": {
+      "aa_muts": {
+        "HA": [
+          "S107N",
+          "T123N",
+          "K326R"
+        ]
+      }
+    },
+    "A/swine/Italy/1034/2020": {
+      "aa_muts": {
+        "HA": [
+          "F62V",
+          "M64I",
+          "R108W",
+          "N160D",
+          "T183S",
+          "I228V",
+          "A554T"
+        ]
+      }
+    },
+    "A/swine/Italy/124375/2020": {
+      "aa_muts": {
+        "HA": [
+          "K69N",
+          "R108K",
+          "Q148P",
+          "A154S",
+          "V229I",
+          "S235P",
+          "V400I"
+        ]
+      }
+    },
+    "A/swine/Italy/56910/2020": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/swine/Italy/75697/2020": {
+      "aa_muts": {
+        "HA": [
+          "N24K",
+          "S25N",
+          "S221A",
+          "I339V",
+          "R427K"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02245376/2020": {
+      "aa_muts": {
+        "HA": [
+          "D149N",
+          "S154A",
+          "N161K",
+          "G520R"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02245738/2020": {
+      "aa_muts": {
+        "HA": [
+          "R238K"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02245740/2020": {
+      "aa_muts": {
+        "HA": [
+          "D149N",
+          "N174D",
+          "D241G",
+          "I258V",
+          "D503N"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02246982/2021": {
+      "aa_muts": {
+        "HA": [
+          "P119S",
+          "K174N",
+          "G520D"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02525393/2021": {
+      "aa_muts": {
+        "HA": [
+          "D147B",
+          "E160X",
+          "K223X",
+          "F483L",
+          "V512L"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02751267/2022": {
+      "aa_muts": {
+        "HA": [
+          "G21W",
+          "D147N",
+          "K161I",
+          "E174G",
+          "K189E",
+          "V239I",
+          "T344A",
+          "I534V"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02861449/2023": {
+      "aa_muts": {
+        "HA": [
+          "L75I",
+          "H171Y",
+          "V506I"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02861756/2023": {
+      "aa_muts": {
+        "HA": [
+          "K78E",
+          "D149N",
+          "N161K",
+          "N174D",
+          "V233I",
+          "Y249H",
+          "I506V"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02862030/2023": {
+      "aa_muts": {
+        "HA": [
+          "L19P",
+          "I74V",
+          "L173S",
+          "Q189K",
+          "Q213R",
+          "K292E",
+          "S525P"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02978429/2023": {
+      "aa_muts": {
+        "HA": [
+          "G65S",
+          "D147A",
+          "S172R",
+          "A212V",
+          "I218V",
+          "I422V",
+          "I534V"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02978456/2023": {
+      "aa_muts": {
+        "HA": [
+          "G158E",
+          "E160K",
+          "Y249H"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02978505/2023": {
+      "aa_muts": {
+        "HA": [
+          "H72Y",
+          "N328X",
+          "R377X",
+          "T386X",
+          "D391B",
+          "N394X",
+          "L400X",
+          "I401X",
+          "G402X",
+          "S416X",
+          "I422X",
+          "K427X"
+        ]
+      }
+    },
+    "A/swine/Kansas/A02978545/2023": {
+      "aa_muts": {
+        "HA": [
+          "K18E",
+          "G94D",
+          "D149N",
+          "R158G",
+          "N174K",
+          "K205E",
+          "Y527X",
+          "K557R"
+        ]
+      }
+    },
+    "A/swine/Kentucky/A02525075/2021": {
+      "aa_muts": {
+        "HA": [
+          "V4I",
+          "N24S",
+          "N181K",
+          "K189E",
+          "K402E"
+        ]
+      }
+    },
+    "A/swine/Michigan/A02246908/2021": {
+      "aa_muts": {
+        "HA": [
+          "L127I",
+          "Y153Q",
+          "N174D",
+          "T203S",
+          "V212F",
+          "A492V",
+          "F541L"
+        ]
+      }
+    },
+    "A/swine/Michigan/A02524482/2020": {
+      "aa_muts": {
+        "HA": [
+          "V239I",
+          "Q470L"
+        ]
+      }
+    },
+    "A/swine/Michigan/A02635708/2021": {
+      "aa_muts": {
+        "HA": [
+          "S63A",
+          "V212I",
+          "Q277K",
+          "T344A",
+          "D503N"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245422/2020": {
+      "aa_muts": {
+        "HA": [
+          "D505N",
+          "F541L"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245583/2020": {
+      "aa_muts": {
+        "HA": [
+          "N161S"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245638/2020": {
+      "aa_muts": {
+        "HA": [
+          "A16S",
+          "I208L",
+          "R315K",
+          "K469R",
+          "I531V"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245641/2020": {
+      "aa_muts": {
+        "HA": [
+          "L19F",
+          "N225T",
+          "N232S",
+          "K308R",
+          "G520R"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245699/2020": {
+      "aa_muts": {
+        "HA": [
+          "F7L",
+          "K24T",
+          "Q96X",
+          "E135X",
+          "T137K",
+          "A147S",
+          "H171Y",
+          "N174G",
+          "M205X",
+          "E214X",
+          "L226X",
+          "V239X",
+          "R277X",
+          "I278X",
+          "K285X",
+          "L289X",
+          "G291X",
+          "N292X",
+          "P305X",
+          "R315X",
+          "K384E",
+          "K469R",
+          "T492X",
+          "D505B",
+          "V506X",
+          "D509B",
+          "D513B",
+          "I518X"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245708/2020": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/swine/Minnesota/A02245736/2020": {
+      "aa_muts": {
+        "HA": [
+          "T64I",
+          "A109S",
+          "G158E",
+          "S215P",
+          "R217K",
+          "S278N",
+          "F348L",
+          "V518I"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245763/2020": {
+      "aa_muts": {
+        "HA": [
+          "H9Q",
+          "A16T",
+          "E78G",
+          "F95L",
+          "K205R",
+          "I230T",
+          "D241N",
+          "D287N",
+          "V325I",
+          "N513S",
+          "I538T"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245776/2020": {
+      "aa_muts": {
+        "HA": [
+          "A389V",
+          "N509D",
+          "F550V"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245828/2020": {
+      "aa_muts": {
+        "HA": [
+          "D93E",
+          "D94E",
+          "S225N",
+          "N232S",
+          "N294S",
+          "K315R",
+          "K402E",
+          "I494M"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02245861/2020": {
+      "aa_muts": {
+        "HA": [
+          "D241N",
+          "L455I",
+          "N513S"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02246907/2021": {
+      "aa_muts": {
+        "HA": [
+          "L19P",
+          "A122T",
+          "S130T",
+          "Y249H",
+          "S263N",
+          "I339V",
+          "S539T",
+          "M552V"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02246983/2021": {
+      "aa_muts": {
+        "HA": [
+          "L19P",
+          "Y175H",
+          "E406D",
+          "K488N"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02248041/2021": {
+      "aa_muts": {
+        "HA": [
+          "D23N",
+          "A215T",
+          "R277Q",
+          "K292R",
+          "L339V",
+          "D503N"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02479268/2020": {
+      "aa_muts": {
+        "HA": [
+          "R277Q",
+          "V418I",
+          "K466R"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02525044/2021": {
+      "aa_muts": {
+        "HA": [
+          "V4I",
+          "D529G"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02636519/2022": {
+      "aa_muts": {
+        "HA": [
+          "K18Q",
+          "E99K",
+          "L127I",
+          "T137I",
+          "V218I",
+          "A288V",
+          "R323K",
+          "N328H",
+          "I494M",
+          "L532V"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02711696/2022": {
+      "aa_muts": {
+        "HA": [
+          "I10V",
+          "L19I",
+          "S62F",
+          "T123N",
+          "S235Y",
+          "N262S"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02711797/2022": {
+      "aa_muts": {
+        "HA": [
+          "T133I",
+          "F153S",
+          "R472X",
+          "E473X",
+          "G481X",
+          "I494J",
+          "V531X",
+          "V546A"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02751446/2023": {
+      "aa_muts": {
+        "HA": [
+          "G94D",
+          "I258M"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02861661/2023": {
+      "aa_muts": {
+        "HA": [
+          "R156K",
+          "N294D"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02978449/2023": {
+      "aa_muts": {
+        "HA": [
+          "L13Q",
+          "T208I",
+          "T228A",
+          "I258V",
+          "R561K"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02978501/2023": {
+      "aa_muts": {
+        "HA": [
+          "D291G",
+          "R466K"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02978530/2023": {
+      "aa_muts": {
+        "HA": [
+          "I14V",
+          "T64I",
+          "N187D",
+          "T208N",
+          "R468K",
+          "V518I",
+          "V545I"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02978603/2023": {
+      "aa_muts": {
+        "HA": [
+          "P20L",
+          "I140V",
+          "R147K",
+          "A154S",
+          "N158G",
+          "N174D",
+          "A179E",
+          "A320D",
+          "V546I"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02978605/2023": {
+      "aa_muts": {
+        "HA": [
+          "Q73K",
+          "N174D",
+          "T228I",
+          "R277Q",
+          "K557Q"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02978617/2023": {
+      "aa_muts": {
+        "HA": [
+          "T3P",
+          "D48G",
+          "D112G",
+          "A151S",
+          "N161K",
+          "T183A",
+          "I208F",
+          "I230T",
+          "P243S",
+          "K308R",
+          "R421K",
+          "N480X",
+          "F483L",
+          "N509D",
+          "D529N"
+        ]
+      }
+    },
+    "A/swine/Minnesota/A02978669/2023": {
+      "aa_muts": {
+        "HA": [
+          "I45L",
+          "D47G",
+          "S107N",
+          "N137K",
+          "F175Y",
+          "K427N"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02479196/2020": {
+      "aa_muts": {
+        "HA": [
+          "A228V",
+          "N394S"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02524672/2020": {
+      "aa_muts": {
+        "HA": [
+          "K2R",
+          "R315K",
+          "V325I",
+          "K519E"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02525178/2021": {
+      "aa_muts": {
+        "HA": [
+          "A151S",
+          "R158K",
+          "G495E"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02636044/2021": {
+      "aa_muts": {
+        "HA": [
+          "T3A",
+          "C12Y",
+          "S61N",
+          "Q73K",
+          "G94S",
+          "A151T",
+          "V239I",
+          "S278N",
+          "G279R",
+          "A380V",
+          "N461D",
+          "K469R",
+          "D490N",
+          "G495E",
+          "A546T"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02636129/2021": {
+      "aa_muts": {
+        "HA": [
+          "L19F",
+          "R323K"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02636185/2021": {
+      "aa_muts": {
+        "HA": [
+          "D23G",
+          "M26V",
+          "R158G",
+          "V220I"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02636322/2021": {
+      "aa_muts": {
+        "HA": [
+          "S8G",
+          "C12S",
+          "I140V",
+          "N174D",
+          "K192R",
+          "G291D"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02750981/2022": {
+      "aa_muts": {
+        "HA": [
+          "I10V",
+          "P20S",
+          "D120E",
+          "T151K",
+          "S214P",
+          "V545I"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02751007/2022": {
+      "aa_muts": {
+        "HA": [
+          "L173S",
+          "V239I",
+          "R277Q"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02751055/2022": {
+      "aa_muts": {
+        "HA": [
+          "V146I",
+          "P243S"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02751137/2022": {
+      "aa_muts": {
+        "HA": [
+          "S61N",
+          "N137T",
+          "S140N",
+          "K174E",
+          "K205R",
+          "E296A"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02751448/2023": {
+      "aa_muts": {
+        "HA": [
+          "S63T",
+          "A151K",
+          "M184I",
+          "N328K",
+          "R399K",
+          "K466R"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02861751/2023": {
+      "aa_muts": {
+        "HA": [
+          "I14T",
+          "G21R",
+          "M26T",
+          "A109T",
+          "I140V",
+          "Q277L"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02861950/2023": {
+      "aa_muts": {
+        "HA": [
+          "N161K",
+          "L173S",
+          "I316V",
+          "K557N"
+        ]
+      }
+    },
+    "A/swine/Missouri/A02978606/2023": {
+      "aa_muts": {
+        "HA": [
+          "I4T",
+          "D69G",
+          "N137S",
+          "A154S",
+          "R157K",
+          "R158G",
+          "F175S",
+          "Q189K",
+          "S209Y",
+          "V239I",
+          "D241G",
+          "I434T",
+          "D505N",
+          "D509N"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A01378048/2021": {
+      "aa_muts": {
+        "HA": [
+          "A214T",
+          "R377K",
+          "D505N",
+          "I564V"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02524410/2022": {
+      "aa_muts": {
+        "HA": [
+          "T64I",
+          "N97D",
+          "S159A",
+          "N312S"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02524569/2020": {
+      "aa_muts": {
+        "HA": [
+          "Q73K",
+          "N174K",
+          "V198I",
+          "Y209H",
+          "Q379X"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02524769/2020": {
+      "aa_muts": {
+        "HA": [
+          "I50V",
+          "V104I",
+          "S130A",
+          "N133S",
+          "T137A",
+          "T144N",
+          "D149G",
+          "R156K",
+          "N172K",
+          "K189N",
+          "I219L",
+          "T228N",
+          "V239I",
+          "L260V",
+          "A288T",
+          "E296D",
+          "S305P",
+          "I506V",
+          "K519E",
+          "K524E",
+          "V545A"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02524799/2020": {
+      "aa_muts": {
+        "HA": [
+          "G21S",
+          "S278N",
+          "K292N",
+          "A320V",
+          "D529N"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02525176/2021": {
+      "aa_muts": {
+        "HA": [
+          "N47X",
+          "N161S",
+          "L173S",
+          "N232S",
+          "N262X",
+          "L425I",
+          "I494M"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02635916/2021": {
+      "aa_muts": {
+        "HA": [
+          "F62S",
+          "N97D",
+          "N137T",
+          "N161K",
+          "D241N",
+          "R277Q",
+          "A296T"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02636000/2021": {
+      "aa_muts": {
+        "HA": [
+          "V14I",
+          "I41V",
+          "F95L",
+          "P119S",
+          "V128I",
+          "R158G",
+          "N161R",
+          "V239I",
+          "N294S",
+          "A546V",
+          "M552I"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02636021/2021": {
+      "aa_muts": {
+        "HA": [
+          "I10T",
+          "P20S",
+          "S22N",
+          "D23G",
+          "D65N",
+          "F95L",
+          "V104I",
+          "P138L",
+          "D149N",
+          "N158S",
+          "V160A",
+          "N161K",
+          "Q213K",
+          "M276I",
+          "N294S"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02636561/2021": {
+      "aa_muts": {
+        "HA": [
+          "I14V",
+          "N133S",
+          "T137I",
+          "V212A",
+          "I246M"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02750817/2022": {
+      "aa_muts": {
+        "HA": [
+          "K135E",
+          "A147K",
+          "G307D",
+          "S374Y",
+          "I506V"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02751119/2022": {
+      "aa_muts": {
+        "HA": [
+          "N137S",
+          "R285K",
+          "N294S",
+          "V545A"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02751253/2022": {
+      "aa_muts": {
+        "HA": [
+          "T3A",
+          "D147N",
+          "Y153F",
+          "S159A",
+          "N204D",
+          "V205A",
+          "A212T",
+          "N232T",
+          "A320P"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02861435/2023": {
+      "aa_muts": {
+        "HA": [
+          "K99R",
+          "K108R",
+          "S140R",
+          "A214T",
+          "D241N",
+          "N509K"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02861598/2023": {
+      "aa_muts": {
+        "HA": [
+          "L31I",
+          "N47D",
+          "Q73K",
+          "N160D",
+          "R238K",
+          "A320D",
+          "T344P"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02861613/2023": {
+      "aa_muts": {
+        "HA": [
+          "F15L",
+          "E96G",
+          "D147N",
+          "N174D",
+          "K189I",
+          "A320T"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02862068/2023": {
+      "aa_muts": {
+        "HA": [
+          "L19P",
+          "R66G",
+          "L127I",
+          "I140T",
+          "S225N",
+          "F274Y",
+          "H289Q",
+          "K326R",
+          "L447M"
+        ]
+      }
+    },
+    "A/swine/Nebraska/A02862087/2023": {
+      "aa_muts": {
+        "HA": [
+          "N98S",
+          "K108R",
+          "V122A",
+          "S140X",
+          "S153F",
+          "K176T",
+          "S209Y",
+          "T228I",
+          "A537S"
+        ]
+      }
+    },
+    "A/swine/Nebraska/I80400/2023": {
+      "aa_muts": {
+        "HA": [
+          "G21E",
+          "N161K",
+          "F550S"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02245396/2020": {
+      "aa_muts": {
+        "HA": [
+          "I83M",
+          "N138D",
+          "R238K",
+          "E341K"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02245413/2020": {
+      "aa_muts": {
+        "HA": [
+          "S159Y",
+          "N225S"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02245746/2020": {
+      "aa_muts": {
+        "HA": [
+          "K462R"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02245817/2020": {
+      "aa_muts": {
+        "HA": [
+          "A122V",
+          "S130T",
+          "V160A",
+          "Y175H",
+          "K176R",
+          "N491D"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02479041/2020": {
+      "aa_muts": {
+        "HA": [
+          "G21D",
+          "Q73H",
+          "A320T",
+          "K484R"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02525064/2021": {
+      "aa_muts": {
+        "HA": [
+          "D174A",
+          "G202S",
+          "I339V"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02525158/2021": {
+      "aa_muts": {
+        "HA": [
+          "S22N",
+          "Y117H",
+          "L127I",
+          "T228N",
+          "D382B",
+          "G395E",
+          "K524E"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02635904/2021": {
+      "aa_muts": {
+        "HA": [
+          "K189N",
+          "L436I"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02636058/2021": {
+      "aa_muts": {
+        "HA": [
+          "I15T",
+          "I230T",
+          "I246M",
+          "I339V",
+          "Q517R"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02636172/2021": {
+      "aa_muts": {
+        "HA": [
+          "I15V",
+          "L19F",
+          "I45L",
+          "D204N"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02636370/2022": {
+      "aa_muts": {
+        "HA": [
+          "N142D",
+          "Y175H",
+          "I534T"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02636673/2022": {
+      "aa_muts": {
+        "HA": [
+          "T208I",
+          "N209S",
+          "S247N",
+          "I494M"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02711714/2022": {
+      "aa_muts": {
+        "HA": [
+          "G21E",
+          "N24K",
+          "S225N",
+          "P255S",
+          "N513K"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02750694/2022": {
+      "aa_muts": {
+        "HA": [
+          "F95L",
+          "E99D",
+          "V418I"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02750868/2022": {
+      "aa_muts": {
+        "HA": [
+          "G158R",
+          "Y175H",
+          "R223K",
+          "T228A",
+          "N232S",
+          "I233V"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02750890/2022": {
+      "aa_muts": {
+        "HA": [
+          "S305P",
+          "I339M",
+          "V445I"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02750898/2022": {
+      "aa_muts": {
+        "HA": [
+          "L173M",
+          "N232S",
+          "V239I",
+          "S374F",
+          "E417D",
+          "N513S"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02751569/2023": {
+      "aa_muts": {
+        "HA": [
+          "I10T",
+          "I15V",
+          "S159Y",
+          "V160A",
+          "I233T",
+          "H289R",
+          "K315R"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02861257/2023": {
+      "aa_muts": {
+        "HA": [
+          "T64P",
+          "T123I",
+          "Y153N",
+          "N161K",
+          "Y171H",
+          "H172N",
+          "S215P",
+          "A288T",
+          "S305P",
+          "K427R",
+          "G495E",
+          "K519T"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02861348/2023": {
+      "aa_muts": {
+        "HA": [
+          "S22N",
+          "N54T",
+          "V160A",
+          "V239A",
+          "K402X"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02861997/2023": {
+      "aa_muts": {
+        "HA": [
+          "T147D",
+          "D149G",
+          "D174N",
+          "N232S",
+          "S305P",
+          "V325I",
+          "R561K"
+        ]
+      }
+    },
+    "A/swine/NorthCarolina/A02862112/2023": {
+      "aa_muts": {
+        "HA": [
+          "S22G",
+          "S107R",
+          "T147N",
+          "K275R"
+        ]
+      }
+    },
+    "A/swine/Ohio/22TOSU3710/2022": {
+      "aa_muts": {
+        "HA": [
+          "I64V",
+          "K98R",
+          "D241E"
+        ]
+      }
+    },
+    "A/swine/Ohio/23TOSU0495/2023": {
+      "aa_muts": {
+        "HA": [
+          "K138N",
+          "S140N",
+          "K156Q",
+          "R271K",
+          "A388T"
+        ]
+      }
+    },
+    "A/swine/Ohio/A02636113/2021": {
+      "aa_muts": {
+        "HA": [
+          "F95L",
+          "T147S",
+          "I276M",
+          "D503N",
+          "L532I",
+          "G558D"
+        ]
+      }
+    },
+    "A/swine/Ohio/A02750788/2022": {
+      "aa_muts": {
+        "HA": [
+          "E78D"
+        ]
+      }
+    },
+    "A/swine/Ohio/A02751108/2022": {
+      "aa_muts": {
+        "HA": [
+          "E99K",
+          "D149E",
+          "Y153N",
+          "G158R",
+          "N161K",
+          "Y175N",
+          "N209S",
+          "P255S"
+        ]
+      }
+    },
+    "A/swine/Ohio/A02861391/2023": {
+      "aa_muts": {
+        "HA": [
+          "F95L",
+          "T144I",
+          "S160D",
+          "Y175H",
+          "P185Q",
+          "K280R",
+          "K294R",
+          "D529N"
+        ]
+      }
+    },
+    "A/swine/Ohio/A02861681/2023": {
+      "aa_muts": {
+        "HA": [
+          "D94Y",
+          "R108G",
+          "I151T",
+          "K176T",
+          "S209Y"
+        ]
+      }
+    },
+    "A/swine/Ohio/OH20-3284/2020": {
+      "aa_muts": {
+        "HA": [
+          "I41M",
+          "E66V",
+          "S160N",
+          "N328D",
+          "D364N",
+          "D505N",
+          "N509D"
+        ]
+      }
+    },
+    "A/swine/Ohio/OH21-24933/2021": {
+      "aa_muts": {
+        "HA": [
+          "L127I",
+          "K205N",
+          "N209S",
+          "V212A"
+        ]
+      }
+    },
+    "A/swine/Ohio/OH21-3206/2021": {
+      "aa_muts": {
+        "HA": [
+          "S278N",
+          "K280E",
+          "S281G"
+        ]
+      }
+    },
+    "A/swine/Oklahoma/A02245730/2020": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/swine/Oklahoma/A02245759/2020": {
+      "aa_muts": {
+        "HA": [
+          "D241G"
+        ]
+      }
+    },
+    "A/swine/Oklahoma/A02246451/2021": {
+      "aa_muts": {
+        "HA": [
+          "S154A",
+          "R345I"
+        ]
+      }
+    },
+    "A/swine/Oklahoma/A02479121/2020": {
+      "aa_muts": {
+        "HA": [
+          "K2N",
+          "N47S",
+          "S154A",
+          "S160N",
+          "N161K",
+          "V325I"
+        ]
+      }
+    },
+    "A/swine/Oklahoma/A02712149/2022": {
+      "aa_muts": {
+        "HA": [
+          "N69D",
+          "N161K",
+          "N174D",
+          "K469R",
+          "D505N"
+        ]
+      }
+    },
+    "A/swine/Oklahoma/A02712150/2022": {
+      "aa_muts": {
+        "HA": [
+          "P20H",
+          "N38K",
+          "R224S",
+          "D503N"
+        ]
+      }
+    },
+    "A/swine/Oklahoma/A02712154/2022": {
+      "aa_muts": {
+        "HA": [
+          "Y121H",
+          "R158G",
+          "N187K",
+          "D241G",
+          "F541L"
+        ]
+      }
+    },
+    "A/swine/Oklahoma/A02862086/2023": {
+      "aa_muts": {
+        "HA": [
+          "E78G",
+          "K160E",
+          "A214S",
+          "D307N",
+          "K326R"
+        ]
+      }
+    },
+    "A/swine/Pennsylvania/A02524832/2020": {
+      "aa_muts": {
+        "HA": [
+          "Q96R",
+          "V104I",
+          "N262X",
+          "I506V"
+        ]
+      }
+    },
+    "A/swine/Pennsylvania/A02525244/2021": {
+      "aa_muts": {
+        "HA": [
+          "R157K",
+          "V212G"
+        ]
+      }
+    },
+    "A/swine/Pennsylvania/A02636531/2022": {
+      "aa_muts": {
+        "HA": [
+          "S61N",
+          "D94E",
+          "D191N"
+        ]
+      }
+    },
+    "A/swine/Pennsylvania/A02750718/2022": {
+      "aa_muts": {
+        "HA": [
+          "G21E",
+          "K78E",
+          "N209S",
+          "N294S"
+        ]
+      }
+    },
+    "A/swine/Pennsylvania/A02751476/2023": {
+      "aa_muts": {
+        "HA": [
+          "V212A",
+          "R217K",
+          "Y249H",
+          "I252V",
+          "K275R",
+          "I551F"
+        ]
+      }
+    },
+    "A/swine/Pennsylvania/A02861673/2023": {
+      "aa_muts": {
+        "HA": [
+          "I14V",
+          "Y153Q",
+          "Y171H",
+          "Y175S",
+          "N209Y",
+          "L260M",
+          "I339V",
+          "E384G",
+          "V546A"
+        ]
+      }
+    },
+    "A/swine/Pennsylvania/A02861876/2023": {
+      "aa_muts": {
+        "HA": [
+          "L127I",
+          "I219V",
+          "F550S"
+        ]
+      }
+    },
+    "A/swine/Pennsylvania/A02862094/2023": {
+      "aa_muts": {
+        "HA": [
+          "L13Q",
+          "S112N",
+          "P119T",
+          "N161K",
+          "T228I",
+          "I261V"
+        ]
+      }
+    },
+    "A/swine/SouthDakota/A02524914/2020": {
+      "aa_muts": {
+        "HA": [
+          "T28M",
+          "R66K",
+          "N112D",
+          "P138L",
+          "N174K",
+          "L226Q",
+          "L289P",
+          "V506I"
+        ]
+      }
+    },
+    "A/swine/SouthKorea/0028-1/2022": {
+      "aa_muts": {
+        "HA": [
+          "I10F",
+          "Q17R",
+          "A147T",
+          "V160A",
+          "R166K",
+          "N172S",
+          "N209K",
+          "T228A",
+          "V239I",
+          "K280R",
+          "I283V",
+          "I290V",
+          "E292V",
+          "A320T",
+          "V325I",
+          "R466K",
+          "G495E",
+          "I506V",
+          "G526E"
+        ]
+      }
+    },
+    "A/swine/SouthKorea/0350/2021": {
+      "aa_muts": {
+        "HA": [
+          "T3A",
+          "K18E",
+          "L19P",
+          "G21E",
+          "S22I",
+          "S25R",
+          "R66V",
+          "E99R",
+          "P115L",
+          "Q138H",
+          "V160D",
+          "N161K",
+          "A214E",
+          "R217K",
+          "T264R",
+          "I276L",
+          "Q277L",
+          "R285K",
+          "H289P",
+          "P305S",
+          "T344A",
+          "V400I",
+          "I434V",
+          "R466K",
+          "A492T",
+          "G495E"
+        ]
+      }
+    },
+    "A/swine/SouthKorea/0723-1/2021": {
+      "aa_muts": {
+        "HA": [
+          "S22G",
+          "D93A",
+          "F95L",
+          "Y110H",
+          "S111G",
+          "E135K",
+          "S140N",
+          "T144I",
+          "R157M",
+          "L210I",
+          "R224K",
+          "N232S",
+          "N391D",
+          "S461N",
+          "D509N",
+          "G520S",
+          "C544S",
+          "V545A",
+          "R561K"
+        ]
+      }
+    },
+    "A/swine/SouthKorea/0810/2021": {
+      "aa_muts": {
+        "HA": [
+          "I14T",
+          "F15L",
+          "G21K",
+          "D23N",
+          "S25N",
+          "S61N",
+          "F95L",
+          "K98R",
+          "A122P",
+          "G158E",
+          "S165G",
+          "H171Y",
+          "N172K",
+          "N174G",
+          "Y175E",
+          "A179E",
+          "L180Q",
+          "V182I",
+          "K189R",
+          "H199L",
+          "S209Y",
+          "K223R",
+          "Q226Y",
+          "V239T",
+          "Y249H",
+          "G291E",
+          "N294H",
+          "I304V",
+          "L397I",
+          "I434V",
+          "Y486F",
+          "L543V",
+          "I551V"
+        ]
+      }
+    },
+    "A/swine/Spain/44579-1/2020": {
+      "aa_muts": {
+        "HA": [
+          "I41M",
+          "R158K",
+          "K384R"
+        ]
+      }
+    },
+    "A/swine/Spain/46314-2/2020": {
+      "aa_muts": {
+        "HA": [
+          "R66K",
+          "Y110N",
+          "V128I",
+          "H172Q",
+          "R174G",
+          "R277Q"
+        ]
+      }
+    },
+    "A/swine/Texas/A02245516/2020": {
+      "aa_muts": {
+        "HA": [
+          "I10V",
+          "A122T"
+        ]
+      }
+    },
+    "A/swine/Texas/A02636569/2022": {
+      "aa_muts": {
+        "HA": [
+          "E78K",
+          "N112S",
+          "D503N"
+        ]
+      }
+    },
+    "A/swine/Texas/A02711849/2022": {
+      "aa_muts": {
+        "HA": [
+          "C12Y",
+          "G21D",
+          "L173S",
+          "A215T"
+        ]
+      }
+    },
+    "A/swine/Texas/A02711858/2022": {
+      "aa_muts": {
+        "HA": [
+          "R254K",
+          "A320V"
+        ]
+      }
+    },
+    "A/swine/Utah/A02479278/2020": {
+      "aa_muts": {
+        "HA": [
+          "S63A",
+          "S159F"
+        ]
+      }
+    },
+    "A/swine/Utah/A02861636/2023": {
+      "aa_muts": {
+        "HA": [
+          "I41M",
+          "N98S",
+          "I160T",
+          "N174K",
+          "Q213R",
+          "I258M",
+          "P289S",
+          "I339V",
+          "D457E",
+          "N505S"
+        ]
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "HA": [
+          "G16S",
+          "I351K"
+        ]
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "HA": [
+          "I41V"
+        ]
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "HA": [
+          "P37Q",
+          "I283V"
+        ]
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "HA": [
+          "A176T"
+        ]
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "HA": [
+          "F10L",
+          "F15L",
+          "L19Y",
+          "S153N",
+          "N161S",
+          "I195V"
+        ]
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "HA": [
+          "A6V",
+          "P20S",
+          "G21E"
+        ]
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "HA": [
+          "Y9C",
+          "G16C",
+          "L19P",
+          "S25N",
+          "I83M",
+          "S108N",
+          "S153G",
+          "V179L",
+          "V258I"
+        ]
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "HA": [
+          "I10F",
+          "D23N",
+          "F103Y",
+          "N328S"
+        ]
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "HA": "MKTIIALSYIFCLAFGQDLPGNDNSTATLCLGHHAVPNGTIVKTITDDQIEVTNATELVQSSSTGKICNNPHRILDGRDCTLIDALLGDPHCDVFQDETWDLFVERSSAFSNCYPYDVPDYASLRSLVASSGTLEFITEGFTWTGVTQNGGSSACKRGPANGFFSRLNWLTKSGSAYPVLNVTMPNNDNFDKLYIWGVHHPSTNQEQTNLYVQASGRVTVSTRRSQQTIIPNIGSRPWVRGQSGRISIYWTIVKPGDVLVINSNGNLIAPRGYFKMRTGKSSIMRSDAPIDTCISECITPNGSIPNDKPFQNVNKITYGACPKYVKQNTLKLATGMRNVPEKQTRGLFGAIAGFIENGWEGMIDGWYGFRHQNSEGTGQAADLKSTQAAIDQINGKLNRVIEKTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFEKTRRQLRENAEDMGNGCFKIYHKCDNACIESIRNGTYDHDIYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLLCVVLLGFIMWACQRGNIRCNICI*"
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "HA": [
+          "D18N",
+          "R73K",
+          "V128I",
+          "S153G"
+        ]
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "HA": [
+          "F11L",
+          "N24S",
+          "L86M",
+          "T147S",
+          "A176S",
+          "V179L",
+          "I230V",
+          "M276I",
+          "K280R",
+          "D291E",
+          "I434V",
+          "K519R"
+        ]
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "HA": [
+          "S61N"
+        ]
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "HA": [
+          "S8N",
+          "N22K",
+          "A35S",
+          "T99K",
+          "E135D",
+          "G140S",
+          "T144A",
+          "D188Y",
+          "Y273F"
+        ]
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "HA": [
+          "I74V"
+        ]
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "HA": [
+          "R557K"
+        ]
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "HA": [
+          "N70S"
+        ]
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "HA": [
+          "G153S"
+        ]
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "HA": [
+          "F541L"
+        ]
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "HA": [
+          "M86L",
+          "L347I"
+        ]
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "HA": [
+          "V400L"
+        ]
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000043": {
+      "aa_muts": {
+        "HA": [
+          "I4V",
+          "S175N",
+          "N209S"
+        ]
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "HA": [
+          "I10V",
+          "N18D",
+          "N22S",
+          "K73R",
+          "S108N",
+          "I128V"
+        ]
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
+        "HA": [
+          "G21E",
+          "S22K",
+          "R73K",
+          "S175N"
+        ]
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "HA": [
+          "G16S"
+        ]
+      }
+    },
+    "NODE_0000050": {
+      "aa_muts": {
+        "HA": [
+          "E98V"
+        ]
+      }
+    },
+    "NODE_0000051": {
+      "aa_muts": {
+        "HA": [
+          "I41L"
+        ]
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
+        "HA": [
+          "R224K"
+        ]
+      }
+    },
+    "NODE_0000053": {
+      "aa_muts": {
+        "HA": [
+          "A176T",
+          "N209S"
+        ]
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "HA": [
+          "L19F",
+          "S25G",
+          "V179L"
+        ]
+      }
+    },
+    "NODE_0000055": {
+      "aa_muts": {
+        "HA": [
+          "V10I",
+          "D18N",
+          "N328S",
+          "I506T"
+        ]
+      }
+    },
+    "NODE_0000056": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "HA": [
+          "A14V",
+          "I41L",
+          "R78K",
+          "D79N",
+          "V94G",
+          "D97N",
+          "T99K",
+          "S108R",
+          "I137T",
+          "T138N",
+          "G140S",
+          "T142N",
+          "P159S",
+          "A160D",
+          "G162S",
+          "T171H",
+          "S175N",
+          "A176T",
+          "N204D",
+          "Q205K",
+          "R223K",
+          "I229V",
+          "Q242L",
+          "G244S",
+          "V258I",
+          "M276I",
+          "D291G",
+          "I294N",
+          "K315R",
+          "L347I",
+          "I363V",
+          "R469K",
+          "I506V",
+          "R557K"
+        ]
+      }
+    },
+    "NODE_0000059": {
+      "aa_muts": {
+        "HA": [
+          "I4V",
+          "I10V",
+          "V14G",
+          "L19F",
+          "G21R",
+          "N22K",
+          "D23G",
+          "S61N",
+          "S62F",
+          "T64M",
+          "N69K",
+          "K78A",
+          "I83V",
+          "A85S",
+          "K99R",
+          "V104I",
+          "D120E",
+          "A122T",
+          "V128I",
+          "S140N",
+          "S159I",
+          "D160N",
+          "N161K",
+          "H171Y",
+          "V179M",
+          "L180Q",
+          "N187S",
+          "N189D",
+          "F190Y",
+          "N209D",
+          "V212I",
+          "R217K",
+          "V218I",
+          "T219I",
+          "I258T",
+          "V260I",
+          "R277Q",
+          "I283V",
+          "K323H",
+          "V325I",
+          "V339I",
+          "D364N",
+          "D391N",
+          "K427R",
+          "A492S",
+          "I494M",
+          "D505N",
+          "V506E",
+          "L512V",
+          "V545A",
+          "V546I",
+          "L547W",
+          "M552I"
+        ]
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "HA": [
+          "T228I"
+        ]
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "HA": [
+          "V83I",
+          "N149D"
+        ]
+      }
+    },
+    "NODE_0000065": {
+      "aa_muts": {
+        "HA": [
+          "F11L",
+          "G16A",
+          "D18E",
+          "D47N",
+          "K66R",
+          "N70S",
+          "E98K",
+          "R108K",
+          "F110Y",
+          "G151T",
+          "A154S",
+          "S173L",
+          "G174K",
+          "N175Y",
+          "T176K",
+          "V179A",
+          "N189K",
+          "K205N",
+          "E206D",
+          "N209S",
+          "L242I",
+          "V260L",
+          "N264T",
+          "T278S",
+          "T292N",
+          "K323R",
+          "V400L",
+          "E402G",
+          "K466R"
+        ]
+      }
+    },
+    "NODE_0000066": {
+      "aa_muts": {
+        "HA": [
+          "L13Q",
+          "N69D",
+          "G94D",
+          "K99E",
+          "T147S",
+          "D160V",
+          "V545A"
+        ]
+      }
+    },
+    "NODE_0000067": {
+      "aa_muts": {
+        "HA": [
+          "Q13H",
+          "N22S",
+          "N24S",
+          "D94E",
+          "K108N",
+          "N112D",
+          "T137N",
+          "V146I",
+          "N161K",
+          "L180Q",
+          "K189E",
+          "N205S",
+          "A214T",
+          "V239I",
+          "A320P",
+          "V325I",
+          "V418I",
+          "D503A"
+        ]
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "HA": [
+          "E18K",
+          "R73Q",
+          "K172N",
+          "K174N",
+          "S202G",
+          "E495G"
+        ]
+      }
+    },
+    "NODE_0000069": {
+      "aa_muts": {
+        "HA": [
+          "L7F",
+          "Y9C",
+          "V14I",
+          "N22S",
+          "T26M",
+          "N47D",
+          "Q73K",
+          "K108T",
+          "D117Y",
+          "N138Q",
+          "N149D",
+          "T151S",
+          "S154A",
+          "I242V",
+          "R245I",
+          "R277Q",
+          "D391N",
+          "L400V",
+          "G402K",
+          "E522Q"
+        ]
+      }
+    },
+    "NODE_0000070": {
+      "aa_muts": {
+        "HA": [
+          "I10T",
+          "Q17R",
+          "S22G",
+          "S25N",
+          "S70G",
+          "I74V",
+          "K99E",
+          "Y117F",
+          "E135K",
+          "S140I",
+          "T147S",
+          "S153F",
+          "K156R",
+          "G158N",
+          "D160N",
+          "N161K",
+          "N172S",
+          "L180Q",
+          "D188G",
+          "D204N",
+          "G216R",
+          "R217E",
+          "Y249H",
+          "K275Q",
+          "K280N",
+          "I298T",
+          "K326R",
+          "Q372K",
+          "A388S",
+          "L436I",
+          "R466K",
+          "K469R",
+          "G495E",
+          "G500E",
+          "I531V"
+        ]
+      }
+    },
+    "NODE_0000071": {
+      "aa_muts": {
+        "HA": [
+          "L19I",
+          "V104I",
+          "N205S",
+          "P289S",
+          "K557N"
+        ]
+      }
+    },
+    "NODE_0000072": {
+      "aa_muts": {
+        "HA": [
+          "T10A",
+          "N112D",
+          "P119T",
+          "S147R",
+          "K161N",
+          "Y175H",
+          "R468K"
+        ]
+      }
+    },
+    "NODE_0000073": {
+      "aa_muts": {
+        "HA": [
+          "N205K",
+          "N394T"
+        ]
+      }
+    },
+    "NODE_0000074": {
+      "aa_muts": {
+        "HA": [
+          "G94D",
+          "T147A",
+          "S153Y"
+        ]
+      }
+    },
+    "NODE_0000075": {
+      "aa_muts": {
+        "HA": [
+          "L13Q",
+          "N69S",
+          "I233V"
+        ]
+      }
+    },
+    "NODE_0000076": {
+      "aa_muts": {
+        "HA": [
+          "H72Y",
+          "A122T",
+          "T137N",
+          "Y153I",
+          "H171Y",
+          "N172H",
+          "S209N",
+          "S215Q",
+          "T219I",
+          "V220I",
+          "N232D",
+          "I252V",
+          "I258M",
+          "I268V",
+          "G291D",
+          "N391T",
+          "L543I"
+        ]
+      }
+    },
+    "NODE_0000077": {
+      "aa_muts": {
+        "HA": [
+          "F15S",
+          "A16S",
+          "K18N",
+          "S62T",
+          "T64K",
+          "R66E",
+          "K98R",
+          "K99T",
+          "N112D",
+          "D120E",
+          "S151A",
+          "A154S",
+          "D160E",
+          "N161K",
+          "N172S",
+          "D188G",
+          "F190S",
+          "K205V",
+          "V212A",
+          "R217G",
+          "V218I",
+          "P289H",
+          "N294K",
+          "N328S",
+          "S416T",
+          "K427R",
+          "R468K",
+          "L512V",
+          "N513Q",
+          "S525L",
+          "V545A"
+        ]
+      }
+    },
+    "NODE_0000078": {
+      "aa_muts": {
+        "HA": [
+          "N97D",
+          "K156R",
+          "N174E",
+          "D204N",
+          "I401V"
+        ]
+      }
+    },
+    "NODE_0000079": {
+      "aa_muts": {
+        "HA": [
+          "A147D",
+          "S244G"
+        ]
+      }
+    },
+    "NODE_0000080": {
+      "aa_muts": {
+        "HA": [
+          "E174K",
+          "T208I",
+          "K294E"
+        ]
+      }
+    },
+    "NODE_0000082": {
+      "aa_muts": {
+        "HA": [
+          "S140N",
+          "I434V"
+        ]
+      }
+    },
+    "NODE_0000083": {
+      "aa_muts": {
+        "HA": [
+          "K161N",
+          "W530L"
+        ]
+      }
+    },
+    "NODE_0000084": {
+      "aa_muts": {
+        "HA": [
+          "K99E",
+          "D160V"
+        ]
+      }
+    },
+    "NODE_0000085": {
+      "aa_muts": {
+        "HA": [
+          "M26T",
+          "G65D",
+          "Q138P",
+          "G158K",
+          "R285K",
+          "P289L"
+        ]
+      }
+    },
+    "NODE_0000086": {
+      "aa_muts": {
+        "HA": [
+          "N24K",
+          "K78G",
+          "S140N",
+          "Y153F",
+          "A154S",
+          "K158N",
+          "N172H",
+          "Y175H",
+          "K205M",
+          "A214E",
+          "Q226L",
+          "I276M",
+          "Q277R",
+          "S278I",
+          "A492T",
+          "N513D"
+        ]
+      }
+    },
+    "NODE_0000087": {
+      "aa_muts": {
+        "HA": [
+          "Q96E",
+          "Q372K",
+          "R468K",
+          "Q470L",
+          "I551V"
+        ]
+      }
+    },
+    "NODE_0000088": {
+      "aa_muts": {
+        "HA": [
+          "I74V"
+        ]
+      }
+    },
+    "NODE_0000089": {
+      "aa_muts": {
+        "HA": [
+          "T137N",
+          "A147D"
+        ]
+      }
+    },
+    "NODE_0000090": {
+      "aa_muts": {
+        "HA": [
+          "Q17K",
+          "L180Q",
+          "N328G",
+          "L548M"
+        ]
+      }
+    },
+    "NODE_0000091": {
+      "aa_muts": {
+        "HA": [
+          "K73Q",
+          "S123T",
+          "T133N",
+          "K156R",
+          "H171Y",
+          "A179E",
+          "L180Q",
+          "S209N",
+          "T219I",
+          "P289H",
+          "G291D",
+          "N292E",
+          "R315K",
+          "N461S",
+          "K469R",
+          "V506I"
+        ]
+      }
+    },
+    "NODE_0000092": {
+      "aa_muts": {
+        "HA": [
+          "V212A",
+          "S282T"
+        ]
+      }
+    },
+    "NODE_0000093": {
+      "aa_muts": {
+        "HA": [
+          "K189N",
+          "I195V",
+          "I233V"
+        ]
+      }
+    },
+    "NODE_0000094": {
+      "aa_muts": {
+        "HA": [
+          "P305S",
+          "D509N"
+        ]
+      }
+    },
+    "NODE_0000095": {
+      "aa_muts": {
+        "HA": [
+          "I4V",
+          "P20S",
+          "E135K",
+          "R217K",
+          "I233V",
+          "D307G",
+          "A492T",
+          "D505N",
+          "K524N",
+          "I538T",
+          "V545F"
+        ]
+      }
+    },
+    "NODE_0000096": {
+      "aa_muts": {
+        "HA": [
+          "F95L",
+          "S140N",
+          "V160A"
+        ]
+      }
+    },
+    "NODE_0000097": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000098": {
+      "aa_muts": {
+        "HA": [
+          "K18R",
+          "N24S",
+          "S25G",
+          "Q73K",
+          "N172K",
+          "K205N",
+          "N209S",
+          "S305P"
+        ]
+      }
+    },
+    "NODE_0000099": {
+      "aa_muts": {
+        "HA": [
+          "V212A",
+          "G495E"
+        ]
+      }
+    },
+    "NODE_0000100": {
+      "aa_muts": {
+        "HA": [
+          "L127I",
+          "K280R"
+        ]
+      }
+    },
+    "NODE_0000101": {
+      "aa_muts": {
+        "HA": [
+          "N133S",
+          "Y171H"
+        ]
+      }
+    },
+    "NODE_0000103": {
+      "aa_muts": {
+        "HA": [
+          "K275R"
+        ]
+      }
+    },
+    "NODE_0000105": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000106": {
+      "aa_muts": {
+        "HA": [
+          "K78E",
+          "F95L",
+          "Y249H"
+        ]
+      }
+    },
+    "NODE_0000107": {
+      "aa_muts": {
+        "HA": [
+          "S140I"
+        ]
+      }
+    },
+    "NODE_0000108": {
+      "aa_muts": {
+        "HA": [
+          "F15I",
+          "N112S",
+          "E135K",
+          "A154S",
+          "N172H",
+          "K223R",
+          "K384E",
+          "S461N",
+          "I518V"
+        ]
+      }
+    },
+    "NODE_0000110": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000111": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000112": {
+      "aa_muts": {
+        "HA": [
+          "Q17K",
+          "R66K",
+          "I74V",
+          "Y117H",
+          "R224G",
+          "K254R",
+          "N306S",
+          "K524R"
+        ]
+      }
+    },
+    "NODE_0000113": {
+      "aa_muts": {
+        "HA": [
+          "V339I"
+        ]
+      }
+    },
+    "NODE_0000114": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000115": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000116": {
+      "aa_muts": {
+        "HA": [
+          "I14T",
+          "I506V"
+        ]
+      }
+    },
+    "NODE_0000117": {
+      "aa_muts": {
+        "HA": [
+          "M184I",
+          "V363I"
+        ]
+      }
+    },
+    "NODE_0000120": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000121": {
+      "aa_muts": {
+        "HA": [
+          "K135E",
+          "E384K"
+        ]
+      }
+    },
+    "NODE_0000122": {
+      "aa_muts": {
+        "HA": [
+          "D188E"
+        ]
+      }
+    },
+    "NODE_0000123": {
+      "aa_muts": {
+        "HA": [
+          "I339V",
+          "F541L"
+        ]
+      }
+    },
+    "NODE_0000124": {
+      "aa_muts": {
+        "HA": [
+          "I15N",
+          "V212I"
+        ]
+      }
+    },
+    "NODE_0000125": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000126": {
+      "aa_muts": {
+        "HA": [
+          "F95L"
+        ]
+      }
+    },
+    "NODE_0000127": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000128": {
+      "aa_muts": {
+        "HA": [
+          "R157K"
+        ]
+      }
+    },
+    "NODE_0000130": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000131": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000132": {
+      "aa_muts": {
+        "HA": [
+          "I230V",
+          "R466K"
+        ]
+      }
+    },
+    "NODE_0000133": {
+      "aa_muts": {
+        "HA": [
+          "Y249H"
+        ]
+      }
+    },
+    "NODE_0000135": {
+      "aa_muts": {
+        "HA": [
+          "N174D",
+          "V518I"
+        ]
+      }
+    },
+    "NODE_0000136": {
+      "aa_muts": {
+        "HA": [
+          "L127I",
+          "M478L"
+        ]
+      }
+    },
+    "NODE_0000137": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000138": {
+      "aa_muts": {
+        "HA": [
+          "A147T"
+        ]
+      }
+    },
+    "NODE_0000139": {
+      "aa_muts": {
+        "HA": [
+          "T64A"
+        ]
+      }
+    },
+    "NODE_0000141": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000142": {
+      "aa_muts": {
+        "HA": [
+          "H91Q",
+          "T147A"
+        ]
+      }
+    },
+    "NODE_0000143": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000145": {
+      "aa_muts": {
+        "HA": [
+          "K488R"
+        ]
+      }
+    },
+    "NODE_0000147": {
+      "aa_muts": {
+        "HA": [
+          "T137N"
+        ]
+      }
+    },
+    "NODE_0000148": {
+      "aa_muts": {
+        "HA": [
+          "R561K"
+        ]
+      }
+    },
+    "NODE_0000149": {
+      "aa_muts": {
+        "HA": [
+          "N174D",
+          "V212A"
+        ]
+      }
+    },
+    "NODE_0000151": {
+      "aa_muts": {
+        "HA": [
+          "S162G"
+        ]
+      }
+    },
+    "NODE_0000155": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000156": {
+      "aa_muts": {
+        "HA": [
+          "D307E"
+        ]
+      }
+    },
+    "NODE_0000158": {
+      "aa_muts": {
+        "HA": [
+          "N174D",
+          "N209S"
+        ]
+      }
+    },
+    "NODE_0000160": {
+      "aa_muts": {
+        "HA": [
+          "S278G",
+          "D505N"
+        ]
+      }
+    },
+    "NODE_0000161": {
+      "aa_muts": {
+        "HA": [
+          "G162S"
+        ]
+      }
+    },
+    "NODE_0000162": {
+      "aa_muts": {
+        "HA": [
+          "T137N"
+        ]
+      }
+    },
+    "NODE_0000163": {
+      "aa_muts": {
+        "HA": [
+          "D174N",
+          "M184I",
+          "S209N"
+        ]
+      }
+    },
+    "NODE_0000164": {
+      "aa_muts": {
+        "HA": [
+          "I14V",
+          "L82M",
+          "R156K",
+          "V212A",
+          "A288V",
+          "I347L"
+        ]
+      }
+    },
+    "NODE_0000165": {
+      "aa_muts": {
+        "HA": [
+          "I140T",
+          "V325I",
+          "I531V"
+        ]
+      }
+    },
+    "NODE_0000166": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000169": {
+      "aa_muts": {
+        "HA": [
+          "N133S",
+          "V212D"
+        ]
+      }
+    },
+    "NODE_0000170": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000171": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000173": {
+      "aa_muts": {
+        "HA": [
+          "N174D",
+          "V212A"
+        ]
+      }
+    },
+    "NODE_0000174": {
+      "aa_muts": {
+        "HA": [
+          "S25G"
+        ]
+      }
+    },
+    "NODE_0000175": {
+      "aa_muts": {
+        "HA": [
+          "P178Q"
+        ]
+      }
+    },
+    "NODE_0000176": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000177": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000180": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000181": {
+      "aa_muts": {
+        "HA": [
+          "E384K"
+        ]
+      }
+    },
+    "NODE_0000182": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000184": {
+      "aa_muts": {
+        "HA": [
+          "Y175H"
+        ]
+      }
+    },
+    "NODE_0000185": {
+      "aa_muts": {
+        "HA": [
+          "L41I",
+          "R66G",
+          "K78E",
+          "H91Q",
+          "T137N",
+          "D160N",
+          "H171T",
+          "N172H",
+          "D188E",
+          "T208I",
+          "V212A",
+          "V218I",
+          "W238R",
+          "G241D",
+          "S243P",
+          "N292K",
+          "T377M",
+          "R468K"
+        ]
+      }
+    },
+    "NODE_0000186": {
+      "aa_muts": {
+        "HA": [
+          "T151K",
+          "A320D"
+        ]
+      }
+    },
+    "NODE_0000187": {
+      "aa_muts": {
+        "HA": [
+          "I5V",
+          "I10T",
+          "V14I",
+          "G21E",
+          "N22H",
+          "N24S",
+          "I50V",
+          "G65D",
+          "G66R",
+          "N69D",
+          "H72Y",
+          "K108R",
+          "N149D",
+          "G158R",
+          "N160Q",
+          "N161S",
+          "N174R",
+          "Y175F",
+          "T183V",
+          "K189G",
+          "G202S",
+          "I208V",
+          "Q213K",
+          "R217K",
+          "T219I",
+          "I230T",
+          "N232S",
+          "I258V",
+          "I276T",
+          "M284I",
+          "E296K",
+          "N398S",
+          "I422V",
+          "A492D",
+          "L532Q"
+        ]
+      }
+    },
+    "NODE_0000188": {
+      "aa_muts": {
+        "HA": [
+          "G66E",
+          "N160S",
+          "K189Q",
+          "N205K",
+          "T228A",
+          "M377R",
+          "R466K",
+          "V546A"
+        ]
+      }
+    },
+    "NODE_0000189": {
+      "aa_muts": {
+        "HA": [
+          "L19I",
+          "Q49R",
+          "S61N",
+          "T64I",
+          "N69D",
+          "K156I",
+          "N161S",
+          "A214S",
+          "V239I",
+          "N294K",
+          "N328S",
+          "D505N"
+        ]
+      }
+    },
+    "NODE_0000190": {
+      "aa_muts": {
+        "HA": [
+          "Y9C",
+          "S107N",
+          "T144A",
+          "S160K",
+          "Y175S",
+          "K342R",
+          "I494M"
+        ]
+      }
+    },
+    "NODE_0000191": {
+      "aa_muts": {
+        "HA": [
+          "M362L",
+          "A546V"
+        ]
+      }
+    },
+    "NODE_0000192": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000193": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000194": {
+      "aa_muts": {
+        "HA": [
+          "K108R",
+          "N137K",
+          "T151K",
+          "N187K",
+          "I422V",
+          "G500E"
+        ]
+      }
+    },
+    "NODE_0000195": {
+      "aa_muts": {
+        "HA": [
+          "S25G",
+          "N47D",
+          "I74V",
+          "T183I",
+          "K205N",
+          "Q213R",
+          "T219I"
+        ]
+      }
+    },
+    "NODE_0000196": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000197": {
+      "aa_muts": {
+        "HA": [
+          "I10S",
+          "K151I",
+          "S160N",
+          "K187N",
+          "D307N",
+          "E500G"
+        ]
+      }
+    },
+    "NODE_0000198": {
+      "aa_muts": {
+        "HA": [
+          "K99Q"
+        ]
+      }
+    },
+    "NODE_0000199": {
+      "aa_muts": {
+        "HA": [
+          "A122V",
+          "I156K",
+          "I208T"
+        ]
+      }
+    },
+    "NODE_0000202": {
+      "aa_muts": {
+        "HA": [
+          "G94D"
+        ]
+      }
+    },
+    "NODE_0000204": {
+      "aa_muts": {
+        "HA": [
+          "V14I",
+          "D69N",
+          "I83V",
+          "N160K",
+          "H172Q",
+          "N174D",
+          "N205S",
+          "I258T",
+          "S496T"
+        ]
+      }
+    },
+    "NODE_0000205": {
+      "aa_muts": {
+        "HA": [
+          "S161N",
+          "R213Q"
+        ]
+      }
+    },
+    "NODE_0000206": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000207": {
+      "aa_muts": {
+        "HA": [
+          "K176T"
+        ]
+      }
+    },
+    "NODE_0000208": {
+      "aa_muts": {
+        "HA": [
+          "S140N",
+          "N149D",
+          "I156K",
+          "N174D",
+          "K187M",
+          "G202D",
+          "N205K",
+          "D206N",
+          "K292N"
+        ]
+      }
+    },
+    "NODE_0000209": {
+      "aa_muts": {
+        "HA": [
+          "K151T",
+          "S161N"
+        ]
+      }
+    },
+    "NODE_0000210": {
+      "aa_muts": {
+        "HA": [
+          "K151E"
+        ]
+      }
+    },
+    "NODE_0000211": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000212": {
+      "aa_muts": {
+        "HA": [
+          "R49Q"
+        ]
+      }
+    },
+    "NODE_0000213": {
+      "aa_muts": {
+        "HA": [
+          "S161R",
+          "K187N",
+          "P243S"
+        ]
+      }
+    },
+    "NODE_0000214": {
+      "aa_muts": {
+        "HA": [
+          "Y9C",
+          "S153Y",
+          "R161K",
+          "Y175H",
+          "S225N",
+          "G520E"
+        ]
+      }
+    },
+    "NODE_0000215": {
+      "aa_muts": {
+        "HA": [
+          "E78G",
+          "K176T"
+        ]
+      }
+    },
+    "NODE_0000216": {
+      "aa_muts": {
+        "HA": [
+          "T144A"
+        ]
+      }
+    },
+    "NODE_0000217": {
+      "aa_muts": {
+        "HA": [
+          "G202D",
+          "D206N",
+          "S214P"
+        ]
+      }
+    },
+    "NODE_0000218": {
+      "aa_muts": {
+        "HA": [
+          "I208F"
+        ]
+      }
+    },
+    "NODE_0000219": {
+      "aa_muts": {
+        "HA": [
+          "S154A"
+        ]
+      }
+    },
+    "NODE_0000220": {
+      "aa_muts": {
+        "HA": [
+          "T147K",
+          "K151T",
+          "V545I"
+        ]
+      }
+    },
+    "NODE_0000221": {
+      "aa_muts": {
+        "HA": [
+          "S209F",
+          "S235F",
+          "V363M"
+        ]
+      }
+    },
+    "NODE_0000223": {
+      "aa_muts": {
+        "HA": [
+          "Q213R",
+          "E500G"
+        ]
+      }
+    },
+    "NODE_0000224": {
+      "aa_muts": {
+        "HA": [
+          "K99E",
+          "Y110N",
+          "Y211F",
+          "I538M"
+        ]
+      }
+    },
+    "NODE_0000225": {
+      "aa_muts": {
+        "HA": [
+          "K187N",
+          "G202S",
+          "S214P"
+        ]
+      }
+    },
+    "NODE_0000226": {
+      "aa_muts": {
+        "HA": [
+          "Y175N",
+          "T176I",
+          "L180Q",
+          "G202D",
+          "D206N"
+        ]
+      }
+    },
+    "NODE_0000228": {
+      "aa_muts": {
+        "HA": [
+          "S221F",
+          "A228T"
+        ]
+      }
+    },
+    "NODE_0000229": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000230": {
+      "aa_muts": {
+        "HA": [
+          "Y9N"
+        ]
+      }
+    },
+    "NODE_0000231": {
+      "aa_muts": {
+        "HA": [
+          "E66K",
+          "F95V",
+          "I156K"
+        ]
+      }
+    },
+    "NODE_0000233": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000234": {
+      "aa_muts": {
+        "HA": [
+          "H172S"
+        ]
+      }
+    },
+    "NODE_0000236": {
+      "aa_muts": {
+        "HA": [
+          "D69G",
+          "D120G",
+          "K292R"
+        ]
+      }
+    },
+    "NODE_0000237": {
+      "aa_muts": {
+        "HA": [
+          "D69N"
+        ]
+      }
+    },
+    "NODE_0000238": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000239": {
+      "aa_muts": {
+        "HA": [
+          "N112S",
+          "I208F",
+          "N394S"
+        ]
+      }
+    },
+    "NODE_0000242": {
+      "aa_muts": {
+        "HA": [
+          "I156M"
+        ]
+      }
+    },
+    "NODE_0000245": {
+      "aa_muts": {
+        "HA": [
+          "E66K",
+          "I239V"
+        ]
+      }
+    },
+    "NODE_0000246": {
+      "aa_muts": {
+        "HA": [
+          "V363K"
+        ]
+      }
+    },
+    "NODE_0000247": {
+      "aa_muts": {
+        "HA": [
+          "I156K",
+          "K292E"
+        ]
+      }
+    },
+    "NODE_0000248": {
+      "aa_muts": {
+        "HA": [
+          "Y9H",
+          "S25N",
+          "T26M",
+          "S62F",
+          "K98N",
+          "Y110H",
+          "T151A",
+          "G158R",
+          "Y175F",
+          "N181E",
+          "G202A",
+          "S215A",
+          "T219I",
+          "E296A",
+          "V339I",
+          "G526E",
+          "R561K"
+        ]
+      }
+    },
+    "NODE_0000249": {
+      "aa_muts": {
+        "HA": [
+          "K254R"
+        ]
+      }
+    },
+    "NODE_0000250": {
+      "aa_muts": {
+        "HA": [
+          "L173S",
+          "R224I",
+          "A546V"
+        ]
+      }
+    },
+    "NODE_0000251": {
+      "aa_muts": {
+        "HA": [
+          "N112S"
+        ]
+      }
+    },
+    "NODE_0000252": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000253": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000254": {
+      "aa_muts": {
+        "HA": [
+          "V546A"
+        ]
+      }
+    },
+    "NODE_0000255": {
+      "aa_muts": {
+        "HA": [
+          "S140N",
+          "F175H",
+          "E181K",
+          "K205E",
+          "A214S",
+          "N328S"
+        ]
+      }
+    },
+    "NODE_0000256": {
+      "aa_muts": {
+        "HA": [
+          "R158G",
+          "S209Y"
+        ]
+      }
+    },
+    "NODE_0000257": {
+      "aa_muts": {
+        "HA": [
+          "F62S",
+          "Q189K",
+          "K292E",
+          "I316V"
+        ]
+      }
+    },
+    "NODE_0000258": {
+      "aa_muts": {
+        "HA": [
+          "N25S"
+        ]
+      }
+    },
+    "NODE_0000259": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000261": {
+      "aa_muts": {
+        "HA": [
+          "Q49H",
+          "N97T",
+          "A151T",
+          "N161S",
+          "K292N"
+        ]
+      }
+    },
+    "NODE_0000262": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000263": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000264": {
+      "aa_muts": {
+        "HA": [
+          "N149D"
+        ]
+      }
+    },
+    "NODE_0000265": {
+      "aa_muts": {
+        "HA": [
+          "H72Y",
+          "S225N",
+          "D509N"
+        ]
+      }
+    },
+    "NODE_0000266": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000267": {
+      "aa_muts": {
+        "HA": [
+          "E417D"
+        ]
+      }
+    },
+    "NODE_0000269": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000270": {
+      "aa_muts": {
+        "HA": [
+          "Q96K",
+          "S235P",
+          "V239I"
+        ]
+      }
+    },
+    "NODE_0000271": {
+      "aa_muts": {
+        "HA": [
+          "N174D"
+        ]
+      }
+    },
+    "NODE_0000272": {
+      "aa_muts": {
+        "HA": [
+          "D149N"
+        ]
+      }
+    },
+    "NODE_0000275": {
+      "aa_muts": {
+        "HA": [
+          "L75I"
+        ]
+      }
+    },
+    "NODE_0000276": {
+      "aa_muts": {
+        "HA": [
+          "I422V"
+        ]
+      }
+    },
+    "NODE_0000277": {
+      "aa_muts": {
+        "HA": [
+          "G21S",
+          "A214P",
+          "R254K",
+          "K280E"
+        ]
+      }
+    },
+    "NODE_0000278": {
+      "aa_muts": {
+        "HA": [
+          "L173S",
+          "F274Y",
+          "E442D",
+          "E526A"
+        ]
+      }
+    },
+    "NODE_0000279": {
+      "aa_muts": {
+        "HA": [
+          "Q49R",
+          "R166K",
+          "V325I",
+          "D505N"
+        ]
+      }
+    },
+    "NODE_0000280": {
+      "aa_muts": {
+        "HA": [
+          "I50V"
+        ]
+      }
+    },
+    "NODE_0000281": {
+      "aa_muts": {
+        "HA": [
+          "G21S",
+          "N24K",
+          "G94D",
+          "S278N",
+          "N505S"
+        ]
+      }
+    },
+    "NODE_0000282": {
+      "aa_muts": {
+        "HA": [
+          "L173S",
+          "T183A",
+          "R285K",
+          "I339V"
+        ]
+      }
+    },
+    "NODE_0000283": {
+      "aa_muts": {
+        "HA": [
+          "A6T",
+          "D505N"
+        ]
+      }
+    },
+    "NODE_0000284": {
+      "aa_muts": {
+        "HA": [
+          "D149N",
+          "S160G",
+          "V325I"
+        ]
+      }
+    },
+    "NODE_0000285": {
+      "aa_muts": {
+        "HA": [
+          "I230T"
+        ]
+      }
+    },
+    "NODE_0000286": {
+      "aa_muts": {
+        "HA": [
+          "Y486F"
+        ]
+      }
+    },
+    "NODE_0000287": {
+      "aa_muts": {
+        "HA": [
+          "I390V"
+        ]
+      }
+    },
+    "NODE_0000288": {
+      "aa_muts": {
+        "HA": [
+          "S209Y"
+        ]
+      }
+    },
+    "NODE_0000289": {
+      "aa_muts": {
+        "HA": [
+          "P237T"
+        ]
+      }
+    },
+    "NODE_0000290": {
+      "aa_muts": {
+        "HA": [
+          "T3A"
+        ]
+      }
+    },
+    "NODE_0000291": {
+      "aa_muts": {
+        "HA": [
+          "V239I"
+        ]
+      }
+    },
+    "NODE_0000292": {
+      "aa_muts": {
+        "HA": [
+          "C12Y"
+        ]
+      }
+    },
+    "NODE_0000293": {
+      "aa_muts": {
+        "HA": [
+          "A6V",
+          "H9Q",
+          "E78G",
+          "A122V",
+          "A228T"
+        ]
+      }
+    },
+    "NODE_0000294": {
+      "aa_muts": {
+        "HA": [
+          "Q73K",
+          "S107N"
+        ]
+      }
+    },
+    "NODE_0000295": {
+      "aa_muts": {
+        "HA": [
+          "V239I"
+        ]
+      }
+    },
+    "NODE_0000296": {
+      "aa_muts": {
+        "HA": [
+          "R254K",
+          "K280R"
+        ]
+      }
+    },
+    "NODE_0000297": {
+      "aa_muts": {
+        "HA": [
+          "K2R",
+          "F175Y"
+        ]
+      }
+    },
+    "NODE_0000298": {
+      "aa_muts": {
+        "HA": [
+          "D101E"
+        ]
+      }
+    },
+    "NODE_0000300": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000301": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000302": {
+      "aa_muts": {
+        "HA": [
+          "F15L",
+          "N47D",
+          "S61N",
+          "N138K",
+          "V239I",
+          "L447M"
+        ]
+      }
+    },
+    "NODE_0000303": {
+      "aa_muts": {
+        "HA": [
+          "N112D"
+        ]
+      }
+    },
+    "NODE_0000305": {
+      "aa_muts": {
+        "HA": [
+          "I218T"
+        ]
+      }
+    },
+    "NODE_0000306": {
+      "aa_muts": {
+        "HA": [
+          "V122A"
+        ]
+      }
+    },
+    "NODE_0000307": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000308": {
+      "aa_muts": {
+        "HA": [
+          "N161K"
+        ]
+      }
+    },
+    "NODE_0000309": {
+      "aa_muts": {
+        "HA": [
+          "K223R"
+        ]
+      }
+    },
+    "NODE_0000310": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000311": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000312": {
+      "aa_muts": {
+        "HA": [
+          "N161K"
+        ]
+      }
+    },
+    "NODE_0000313": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000314": {
+      "aa_muts": {
+        "HA": [
+          "T183A"
+        ]
+      }
+    },
+    "NODE_0000315": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000316": {
+      "aa_muts": {
+        "HA": [
+          "G495E"
+        ]
+      }
+    },
+    "NODE_0000317": {
+      "aa_muts": {
+        "HA": [
+          "S154A",
+          "N161K",
+          "D505N"
+        ]
+      }
+    },
+    "NODE_0000318": {
+      "aa_muts": {
+        "HA": [
+          "D120E",
+          "F175Y",
+          "R217G"
+        ]
+      }
+    },
+    "NODE_0000319": {
+      "aa_muts": {
+        "HA": [
+          "K108R",
+          "S225G",
+          "N328K",
+          "A388T"
+        ]
+      }
+    },
+    "NODE_0000320": {
+      "aa_muts": {
+        "HA": [
+          "V104I",
+          "S160I",
+          "H172Q",
+          "D505N"
+        ]
+      }
+    },
+    "NODE_0000321": {
+      "aa_muts": {
+        "HA": [
+          "L173S"
+        ]
+      }
+    },
+    "NODE_0000322": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000323": {
+      "aa_muts": {
+        "HA": [
+          "R158G"
+        ]
+      }
+    },
+    "NODE_0000324": {
+      "aa_muts": {
+        "HA": [
+          "N174D",
+          "K328R"
+        ]
+      }
+    },
+    "NODE_0000325": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000326": {
+      "aa_muts": {
+        "HA": [
+          "S8G",
+          "I10F",
+          "R108G",
+          "H110N",
+          "A151T",
+          "L173S",
+          "K469R"
+        ]
+      }
+    },
+    "NODE_0000328": {
+      "aa_muts": {
+        "HA": [
+          "D204E",
+          "A214T",
+          "A296E",
+          "S374F"
+        ]
+      }
+    },
+    "NODE_0000329": {
+      "aa_muts": {
+        "HA": [
+          "M552T"
+        ]
+      }
+    },
+    "NODE_0000330": {
+      "aa_muts": {
+        "HA": [
+          "I339L"
+        ]
+      }
+    },
+    "NODE_0000331": {
+      "aa_muts": {
+        "HA": [
+          "L383F"
+        ]
+      }
+    },
+    "NODE_0000333": {
+      "aa_muts": {
+        "HA": [
+          "R254K"
+        ]
+      }
+    },
+    "NODE_0000334": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000335": {
+      "aa_muts": {
+        "HA": [
+          "A151S",
+          "I258V",
+          "T317A"
+        ]
+      }
+    },
+    "NODE_0000336": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000337": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000338": {
+      "aa_muts": {
+        "HA": [
+          "E296D",
+          "Y527H"
+        ]
+      }
+    },
+    "NODE_0000339": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000341": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000342": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000343": {
+      "aa_muts": {
+        "HA": [
+          "L19F",
+          "S107N",
+          "N174K"
+        ]
+      }
+    },
+    "NODE_0000344": {
+      "aa_muts": {
+        "HA": [
+          "S154A"
+        ]
+      }
+    },
+    "NODE_0000345": {
+      "aa_muts": {
+        "HA": [
+          "S160N"
+        ]
+      }
+    },
+    "NODE_0000346": {
+      "aa_muts": {
+        "HA": [
+          "A151T"
+        ]
+      }
+    },
+    "NODE_0000347": {
+      "aa_muts": {
+        "HA": [
+          "N69D",
+          "N98S"
+        ]
+      }
+    },
+    "NODE_0000348": {
+      "aa_muts": {
+        "HA": [
+          "N161K",
+          "N174D",
+          "D509E"
+        ]
+      }
+    },
+    "NODE_0000349": {
+      "aa_muts": {
+        "HA": [
+          "G94S",
+          "N138S",
+          "D149G",
+          "S153F",
+          "A154S",
+          "R158K",
+          "P243S"
+        ]
+      }
+    },
+    "NODE_0000350": {
+      "aa_muts": {
+        "HA": [
+          "I50V",
+          "K99R",
+          "N137T",
+          "N174H",
+          "A215E",
+          "V239I"
+        ]
+      }
+    },
+    "NODE_0000351": {
+      "aa_muts": {
+        "HA": [
+          "P20H",
+          "F62S"
+        ]
+      }
+    },
+    "NODE_0000352": {
+      "aa_muts": {
+        "HA": [
+          "A154S",
+          "F175S",
+          "S209Y"
+        ]
+      }
+    },
+    "NODE_0000353": {
+      "aa_muts": {
+        "HA": [
+          "I10V",
+          "S140N",
+          "K205N",
+          "A296S"
+        ]
+      }
+    },
+    "NODE_0000355": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000356": {
+      "aa_muts": {
+        "HA": [
+          "R99K"
+        ]
+      }
+    },
+    "NODE_0000357": {
+      "aa_muts": {
+        "HA": [
+          "I339V",
+          "N513S"
+        ]
+      }
+    },
+    "NODE_0000358": {
+      "aa_muts": {
+        "HA": [
+          "K99E",
+          "N160K",
+          "L383F"
+        ]
+      }
+    },
+    "NODE_0000359": {
+      "aa_muts": {
+        "HA": [
+          "T64K",
+          "V128I",
+          "H174N",
+          "R217K",
+          "N461S"
+        ]
+      }
+    },
+    "NODE_0000361": {
+      "aa_muts": {
+        "HA": [
+          "N98S"
+        ]
+      }
+    }
+  },
+  "reference": {
+    "HA": "MKTIIALSYIFCLAFGQDLPGNDNSTATLCLGHHAVPNGTIVKTITDDQIEVTNATELVQSSSTGKICNNPHRILDGRDCTLIDALLGDPHCDVFQDETWDLFVERSSAFSNCYPYDVPDYASLRSLVASSGTLEFITEGFTWTGVTQNGGSSACKRGPANGFFSRLNWLTKSGSAYPVLNVTMPNNDNFDKLYIWGVHHPSTNQEQTNLYVQASGRVTVSTRRSQQTIIPNIGSRPWVRGQSGRISIYWTIVKPGDVLVINSNGNLIAPRGYFKMRTGKSSIMRSDAPIDTCISECITPNGSIPNDKPFQNVNKITYGACPKYVKQNTLKLATGMRNVPEKQTRGLFGAIAGFIENGWEGMIDGWYGFRHQNSEGTGQAADLKSTQAAIDQINGKLNRVIEKTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFEKTRRQLRENAEDMGNGCFKIYHKCDNACIESIRNGTYDHDIYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLLCVVLLGFIMWACQRGNIRCNICI*"
+  }
+}
